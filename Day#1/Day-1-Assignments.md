@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/eb70e1de-d07c-4dc7-bd21-1c7a2fdb66e9)### Day 1 Assignments
 
 > [!NOTE]
 > Pls edit this table while submitting the assignments

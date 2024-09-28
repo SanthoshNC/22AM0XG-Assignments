@@ -72,6 +72,48 @@ docker run -idt nginx
 
 ![image](https://github.com/user-attachments/assets/7acb1fdd-635b-4548-8467-c5678e66146f)
 
+docker ps
+
+![image](https://github.com/user-attachments/assets/9ae88d5b-3b2d-412d-a3d8-c13074c02e7e)
+
+docker stop efbb700bdacd
+
+![image](https://github.com/user-attachments/assets/ca4ea456-0da3-4e0e-a10d-368fc8b68b02)
+
+docker start efbb700bdacd
+
+![image](https://github.com/user-attachments/assets/249fcec5-400b-445d-9fc3-51dc87e123f3)
+
+docker restart efbb700bdacd
+
+![image](https://github.com/user-attachments/assets/a553a1c6-a309-483b-aa00-8c00ce86f898)
+
+docker logs efbb700bdacd
+
+![image](https://github.com/user-attachments/assets/3095290e-a33c-44a9-9411-cf9d74f9bf74)
+
+docker stop efbb700bdacd
+
+![image](https://github.com/user-attachments/assets/a09372d7-e808-4737-a880-a68022b0b0b2)
+
+docker rm efbb700bdacd   
+
+![image](https://github.com/user-attachments/assets/44dcd62f-f421-475c-b814-a814b999c086)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -81,17 +123,21 @@ docker run -idt nginx
 
 #### #2 Install VSCode and Python. Check the version of Python. Document these steps in GitHub Wiki
 python --version
+
 ![image](https://github.com/user-attachments/assets/1a06098d-1b70-4ec3-92be-13edd152fcdb)
 
 #### #3 [Python] Create a sample flask app and edit the same to showcase your college information(Name, Register_number,etc)
 > Add your answer here!
+
 ![image](https://github.com/user-attachments/assets/fd2108a2-2d3d-4962-9679-a4c6e342af02)
+
+![image](https://github.com/user-attachments/assets/f60ffd58-c943-4502-8f77-6011ea0ef571)
 
 
 #### #4 [Docker] Create the docker image for the above-mentioned flask app and run the same view of the page in a browser
 > Add your answer here!
 
-![image](https://github.com/user-attachments/assets/f60ffd58-c943-4502-8f77-6011ea0ef571)
+
 
 
 #### #5 [Docker] Create a docker compose file for the 2 images: nginx/httpd and run the same view of the page in a browser

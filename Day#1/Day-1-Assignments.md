@@ -41,6 +41,30 @@
 ![image](https://github.com/user-attachments/assets/3665dc77-e975-4c10-a2b2-9ec9d7767a69)
 8. docker search nginx
 ![image](https://github.com/user-attachments/assets/c8ae79b9-f7e3-494c-be44-2874482ddd0c)
+9. docker images <br>
+![image](https://github.com/user-attachments/assets/8c9ba031-3745-46cd-b954-aff204fd25c0)
+10. docker pull nginx <br>
+![image](https://github.com/user-attachments/assets/24e079de-8a7d-4442-9ad1-283db7096836)
+11. docker run -itd nginx <br>
+![image](https://github.com/user-attachments/assets/de89d1f9-d3e2-49e8-a709-8e9b7f218f49)
+12. docker ps
+![image](https://github.com/user-attachments/assets/ec7a0f9d-56d9-418f-9e26-364dabc226a2)
+13. docker stop 0ee87afa8816 <br>
+![image](https://github.com/user-attachments/assets/19f63ac6-81e0-4ddf-8701-411bf3bbb990)
+14. docker start 0ee87afa8816 <br>
+![image](https://github.com/user-attachments/assets/0b5f7c49-9393-4565-a2db-2ab3af421dae)
+15. docker restart 0ee87afa8816 <br>
+![image](https://github.com/user-attachments/assets/d53975fc-075b-4169-9841-96e855807a31)
+16. docker logs 0ee87afa8816 <br>
+![image](https://github.com/user-attachments/assets/5b0d30a7-3c1c-4bba-a48a-ce40162d4fde)
+17. docker rm 0ee87afa8816
+![image](https://github.com/user-attachments/assets/95d15f10-6407-415f-b24b-bbba7eee119d)
+18. docker build -t akshayanhub/py-hello-world .
+![image](https://github.com/user-attachments/assets/f8af8199-f5c3-462a-a24a-6fa20b1d79fd)
+19. docker rmi akshayanhub/py-hello-world
+![image](https://github.com/user-attachments/assets/be5107a5-c38d-4f6c-b423-aba15ee2e995)
+20. docker push akshayanhub/py-hello-world
+![image](https://github.com/user-attachments/assets/e0a2f515-567a-4efd-8f82-b5d917d26f99)
 
 ***
 
@@ -58,7 +82,8 @@
 ***
 
 #### #4 [Docker] Create the docker image for the above-mentioned flask app and run the same view of the page in a browser
-> Add your answer here!
+![image](https://github.com/user-attachments/assets/b0c53b27-713e-43d3-aacf-c7a13600b751)
+
 
 ***
 

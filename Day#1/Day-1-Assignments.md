@@ -47,11 +47,19 @@
     ![image](https://github.com/user-attachments/assets/69640317-fd04-4f29-8029-7f91ffc99d50)
 11. docker run -idt nginx <br>
     ![image](https://github.com/user-attachments/assets/69c3c493-66df-4e6e-92be-c1c54ddf2642)
-12. 
-
-
-    
-
+12. docker ps <br>
+    ![image](https://github.com/user-attachments/assets/078135c8-26f2-4f43-b7a6-f339da8e0559)
+13. docker stop <br>
+    ![image](https://github.com/user-attachments/assets/700cef51-9482-44d4-882e-aa03f1e70997)
+14. docker restart <br>
+    ![image](https://github.com/user-attachments/assets/d1b31b38-4f82-47fa-a570-85873ce15945)
+15. docker logs <br>
+    ![image](https://github.com/user-attachments/assets/9f1bb07a-a1f7-415c-a047-c91ec7bb77ee)
+16. docker rm <br>
+    ![image](https://github.com/user-attachments/assets/bead6c52-1372-4a60-bd46-e7587556ff1b)
+17. docker start <br>
+    ![image](https://github.com/user-attachments/assets/79e370db-2159-4b58-b447-9aa9d5c534d9)
+18. docker
 
 ***
 

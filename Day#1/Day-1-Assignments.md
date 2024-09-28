@@ -35,6 +35,12 @@ sudo docker info
 sudo docker system info
 ![sudo docker system info](https://github.com/user-attachments/assets/391b9695-3275-4157-b69a-556bfde837a8)
 
+sudo docker --help
+![sudo docker --help](https://github.com/user-attachments/assets/c93e0563-58dc-4cd7-8e65-5087f47d239d)
+
+docker search nginx
+![docker search nginx](https://github.com/user-attachments/assets/50498068-609f-4bac-a11f-f5cdb57ad621)
+
 
 ***
 

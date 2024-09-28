@@ -60,6 +60,9 @@
 
 ![docker run ](https://github.com/user-attachments/assets/def4ea76-5b67-46a8-ba7d-b9cce8dbcc27)
 
+12.docker ps
+
+![docker ps](https://github.com/user-attachments/assets/7b63039e-0044-4a32-b46f-1ad5d7be3870)
 
 
 ***

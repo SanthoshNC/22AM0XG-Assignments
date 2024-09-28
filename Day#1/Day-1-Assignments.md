@@ -19,7 +19,7 @@
 ### Day 1 Assignments - Answers and Screenshots
 
 > [!WARNING]
-> 1) checking docker version:
+1) checking docker version:
 ![image](https://github.com/user-attachments/assets/a48cea68-2224-4bfc-970b-f9f8ba5192ec)
 
 

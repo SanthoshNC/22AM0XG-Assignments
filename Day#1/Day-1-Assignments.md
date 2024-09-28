@@ -64,6 +64,26 @@
 
 ![docker ps](https://github.com/user-attachments/assets/7b63039e-0044-4a32-b46f-1ad5d7be3870)
 
+13. docker stop
+
+![docker stop](https://github.com/user-attachments/assets/0935877b-2a85-4132-91b2-92f33823ebde)
+
+14. docker restart
+
+![docker restart](https://github.com/user-attachments/assets/9aac5d0c-d87d-4d6e-8f39-b2bf8e62e8ac)
+
+15. docker logs
+
+![docker logs](https://github.com/user-attachments/assets/bcfffa54-32a0-4e51-a196-4142d7da2eb9)
+
+16. docker rm
+
+![docker rm -f](https://github.com/user-attachments/assets/d8e294cc-31f6-4562-ab83-58f3a0973194)
+
+17. docker build
+
+![docker build](https://github.com/user-attachments/assets/1239b13e-3df3-48a7-9358-c0172967e85c)
+
 
 ***
 

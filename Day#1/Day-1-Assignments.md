@@ -5,10 +5,10 @@
 
 | Status         | Questions     | 
 |----------------|---------------|
-| <ul><li>- [ ] </li></ul> | Execute 25 Docker CLI commands, capture the output screenshots, and document each command's usage on a GitHub Wiki page. |
-| <ul><li>- [ ] </li></ul> | Install VSCode and Python. Check the version of Python. Document these steps in GitHub Wiki. |
-| <ul><li>- [ ] </li></ul> | [Python] Create a sample flask app and edit the same to showcase your college information(Name, Register_number,etc) |
-| <ul><li>- [ ] </li></ul> | [Docker] Create the docker image for the above-mentioned flask app and run the same view of the page in a browser |
+| <ul><li>- [x] </li></ul> | Execute 25 Docker CLI commands, capture the output screenshots, and document each command's usage on a GitHub Wiki page. |
+| <ul><li>- [x] </li></ul> | Install VSCode and Python. Check the version of Python. Document these steps in GitHub Wiki. |
+| <ul><li>- [x] </li></ul> | [Python] Create a sample flask app and edit the same to showcase your college information(Name, Register_number,etc) |
+| <ul><li>- [x] </li></ul> | [Docker] Create the docker image for the above-mentioned flask app and run the same view of the page in a browser |
 | <ul><li>- [ ] </li></ul> | [Docker] Create a docker compose file for the 2 images: nginx/httpd and run the same view of the page in a browser |
 | <ul><li>- [ ] </li></ul> | [Docker] Pull one of the participant’s docker images and verify whether the app is running or not  |
 | <ul><li>- [ ] </li></ul> | Create a GitHub account with a personal mail ID & fork this repo and rename this in the format 22AM0XG-Assignments-Register-Number  |
@@ -77,7 +77,16 @@
 17) docker rm <container-id> :
 ![image](https://github.com/user-attachments/assets/1fb1d8f0-77ef-4349-ac70-a861f7dc7201)
 
-    
+18) docker rmi nginx:
+![image](https://github.com/user-attachments/assets/922f3baf-21dd-41a8-ac11-9d8ed794e182)
+
+19) docker build -t <username>/<imagename> .   :
+![image](https://github.com/user-attachments/assets/4bf91963-2434-45c0-ae54-de89675668fd)
+
+20) docker push image-name:
+![image](https://github.com/user-attachments/assets/d7e6ef88-5325-47ba-b4d0-965ad12eba27)
+
+
 
 
 
@@ -99,6 +108,8 @@
 ***
 
 #### #3 [Python] Create a sample flask app and edit the same to showcase your college information(Name, Register_number,etc)
+
+## #Helloworld cmd app:
 1) Python helloworld application:
 ![image](https://github.com/user-attachments/assets/d5299a68-5515-4d3f-944e-86a1701e08ac)
 
@@ -106,12 +117,47 @@
 ![image](https://github.com/user-attachments/assets/9638e5e3-7a3e-4afc-ad81-203d8c3919ee)
 ![image](https://github.com/user-attachments/assets/0c8ade6b-fa14-4d90-968f-1cce9828415a)
 
+3) helloworld cli application building docker image using Dockerfile:
+
+![image](https://github.com/user-attachments/assets/68a2b976-44e5-4313-be05-c61e4d1aa59e)
+![image](https://github.com/user-attachments/assets/ea336f52-51dc-485c-b0c8-c97728abc236)
+
+4) image is created. running the docker image using "docker run <image-name>" and then pushing it to the docker hub:
+![image](https://github.com/user-attachments/assets/f09948d1-8df5-489f-92eb-109fcf25cd90)
+![image](https://github.com/user-attachments/assets/45d65d24-85e7-49ff-bcc3-f526334163ea)
+
+5) Testing my friend's docker image:
+![image](https://github.com/user-attachments/assets/24ede96a-7b2d-47bc-81f1-223a77262099)
+
+## #Flask hello world app:
+
+1) Docker file for flask helloworld application:
+![image](https://github.com/user-attachments/assets/6addf487-d784-4a7b-96ec-1e6cdd3681dc)
+
+Bulding and running the image for the flask hello world application is given below
 
 
 ***
 
 #### #4 [Docker] Create the docker image for the above-mentioned flask app and run the same view of the page in a browser
-> Add your answer here!
+1) Building Flask hello world app in using docker build :
+![image](https://github.com/user-attachments/assets/98f95471-e583-432e-86f4-f41639cf4069)
+
+2) image is created and running it on my machine:
+![image](https://github.com/user-attachments/assets/e1be658a-fdd8-43ef-9e21-0fc5b0099a89)
+![image](https://github.com/user-attachments/assets/b4c3c78f-8cdc-4206-b37d-d4892abfe8b7)
+![image](https://github.com/user-attachments/assets/7887d74e-73aa-454a-bb93-9c2967ce910e)
+![image](https://github.com/user-attachments/assets/9b3807dc-39f2-4156-b2b4-6ec01d4abb3b)
+![image](https://github.com/user-attachments/assets/7eeebd65-b09f-4802-bbd6-1fe16aabcfb6)
+
+
+4) Testing my friend's flask app by pulling it and running it using "docker run -idt -p 5000:5000 pawang08/app"
+![image](https://github.com/user-attachments/assets/9ad17546-a8ef-4fc4-b928-c77e27ade233)
+![image](https://github.com/user-attachments/assets/fca973e8-1271-4830-a63e-c003aea8dfa7)
+
+
+
+
 
 ***
 

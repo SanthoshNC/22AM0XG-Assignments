@@ -29,6 +29,36 @@
 1) checking docker version:
 ![image](https://github.com/user-attachments/assets/a48cea68-2224-4bfc-970b-f9f8ba5192ec)
 
+2) docker info:
+![image](https://github.com/user-attachments/assets/95a58bc3-18a1-4ffd-85a3-5eb3529871d8)
+![image](https://github.com/user-attachments/assets/f8ccd85d-6f85-457e-bb44-6dd5508bf22d)
+
+3) docker system info:
+![image](https://github.com/user-attachments/assets/93785fb9-0bdc-46e4-b5c0-e6df0693f5ce)
+
+4) docker --help:
+![image](https://github.com/user-attachments/assets/47a806a0-4a4d-4369-8cf0-c718ecde0e00)
+
+5) docker compose version:
+![image](https://github.com/user-attachments/assets/444a3f35-d296-4938-b12c-a90139dc0029)
+
+6) docker login
+![image](https://github.com/user-attachments/assets/d12401ed-95a4-4410-a6fb-c30a735ad024)
+![image](https://github.com/user-attachments/assets/80fc9812-9ca6-49dc-bb92-3ecddc3086ad)
+
+7) docker logout
+![image](https://github.com/user-attachments/assets/95fd7813-4503-4d02-be00-5c0b9b4b9d50)
+
+8) docker search
+![image](https://github.com/user-attachments/assets/75f9d1c7-1112-4bd8-accb-cd4c7be21062)
+
+
+
+
+
+
+
+
 ***
 
 #### #2 Install VSCode and Python. Check the version of Python. Document these steps in GitHub Wiki

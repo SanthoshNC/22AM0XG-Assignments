@@ -25,9 +25,9 @@
 > Pls don't copy from others. Marks will be reduced for both students
 
 #### #1 Execute 25 Docker CLI commands, capture the output screenshots, and document each command's usage on a GitHub Wiki page
-> Add your answer here!
+docker version
+***![image](https://github.com/user-attachments/assets/a09b787d-48e0-4e80-baa9-4853c757bd39)
 
-***
 
 #### #2 Install VSCode and Python. Check the version of Python. Document these steps in GitHub Wiki
 > Add your answer here!

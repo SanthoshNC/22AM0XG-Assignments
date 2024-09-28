@@ -27,10 +27,10 @@
 #### #1 Execute 25 Docker CLI commands, capture the output screenshots, and document each command's usage on a GitHub Wiki page
 1. docker version
    ![image](https://github.com/user-attachments/assets/e0bbece7-efa7-444c-8e4e-fe18bc234172)
-2. docker info
-   ![image](https://github.com/user-attachments/assets/5f0c6fee-b256-48d7-be82-3fb5488f45b4)
-3. docker system info
-   ![image](https://github.com/user-attachments/assets/23f1aaee-a0b8-43bf-be18-e7839e14cff7)
+2. docker info <br>
+  ![image](https://github.com/user-attachments/assets/8bfd7f64-bd32-42dc-b62a-4a1be408fce5)
+3. docker system info <br>
+  ![image](https://github.com/user-attachments/assets/b3c2fc94-5405-47c0-a042-b2db8217d6e4)
 4. docker --help
    ![image](https://github.com/user-attachments/assets/9c7fac9c-e0c7-4eb0-9793-40acf28926d9)
 5. docker compose version <br>

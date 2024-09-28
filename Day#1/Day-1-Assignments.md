@@ -5,10 +5,10 @@
 
 | Status         | Questions     | 
 |----------------|---------------|
-| <ul><li>- [ ] </li></ul> | Execute 25 Docker CLI commands, capture the output screenshots, and document each command's usage on a GitHub Wiki page. |
-| <ul><li>- [ ] </li></ul> | Install VSCode and Python. Check the version of Python. Document these steps in GitHub Wiki. |
+| <ul><li>- [x ] </li></ul> | Execute 25 Docker CLI commands, capture the output screenshots, and document each command's usage on a GitHub Wiki page. |
+| <ul><li>- [ x] </li></ul> | Install VSCode and Python. Check the version of Python. Document these steps in GitHub Wiki. |
 | <ul><li>- [ ] </li></ul> | [Python] Create a sample flask app and edit the same to showcase your college information(Name, Register_number,etc) |
-| <ul><li>- [ ] </li></ul> | [Docker] Create the docker image for the above-mentioned flask app and run the same view of the page in a browser |
+| <ul><li>- [x ] </li></ul> | [Docker] Create the docker image for the above-mentioned flask app and run the same view of the page in a browser |
 | <ul><li>- [ ] </li></ul> | [Docker] Create a docker compose file for the 2 images: nginx/httpd and run the same view of the page in a browser |
 | <ul><li>- [ ] </li></ul> | [Docker] Pull one of the participant’s docker images and verify whether the app is running or not  |
 | <ul><li>- [ ] </li></ul> | Create a GitHub account with a personal mail ID & fork this repo and rename this in the format 22AM0XG-Assignments-Register-Number  |
@@ -35,12 +35,21 @@
 ![Screenshot 2024-09-28 112241](https://github.com/user-attachments/assets/89f877a1-8cc2-43e2-be6b-3dfced5c2979)
 ![Screenshot 2024-09-28 141950](https://github.com/user-attachments/assets/caf21c85-195c-4396-a6fb-b09862ffe2d6)
 ![Screenshot 2024-09-28 142350](https://github.com/user-attachments/assets/d3e21676-9d05-4a05-9265-c088cfdd2541)
+![Screenshot 2024-09-28 142624](https://github.com/user-attachments/assets/c3c73631-e8b7-43ee-88fc-28ef30e3ce85)
+![Screenshot 2024-09-28 143853](https://github.com/user-attachments/assets/8626ee02-d914-44f0-a24f-71db81f1faa8)
+![Screenshot 2024-09-28 143952](https://github.com/user-attachments/assets/14f364b9-aa0b-415e-948e-03d03cf2cabf)
+![Screenshot 2024-09-28 144033](https://github.com/user-attachments/assets/15e49f3a-226d-4369-8628-35b46d613678)
+![Screenshot 2024-09-28 144135](https://github.com/user-attachments/assets/c853e8cd-1aa4-4c49-a06f-b48b252006be)
+![Screenshot 2024-09-28 144612](https://github.com/user-attachments/assets/5cb17585-3eef-4d0b-9e05-99554494ec65)
 
 
 ***
 
 #### #2 Install VSCode and Python. Check the version of Python. Document these steps in GitHub Wiki
-> Add your answer here!
+![Screenshot 2024-09-28 121129](https://github.com/user-attachments/assets/0a86f53b-b59a-40fa-9c4f-4cff23ddbe1d)
+![Screenshot 2024-09-28 132042](https://github.com/user-attachments/assets/6a589e44-f640-41dc-86b1-9eab4ac192ac)
+
+
 
 ***
 
@@ -50,7 +59,9 @@
 ***
 
 #### #4 [Docker] Create the docker image for the above-mentioned flask app and run the same view of the page in a browser
-> Add your answer here!
+![Screenshot 2024-09-28 161656](https://github.com/user-attachments/assets/325f2b64-dfe4-4405-96dd-62a61b1b7b54)
+![Screenshot 2024-09-28 161507](https://github.com/user-attachments/assets/d155097b-32f7-4357-8185-b79aa33db1d2)
+
 
 ***
 

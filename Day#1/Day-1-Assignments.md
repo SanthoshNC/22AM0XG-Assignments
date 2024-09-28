@@ -32,7 +32,8 @@
 > // Learned and executed the commands - docker search nginx ![image](https://github.com/user-attachments/assets/592e7548-b1d2-4acc-ace1-caf6055764ae)
 > ![image](https://github.com/user-attachments/assets/8d485da9-09bc-48de-94c4-7c0e05c5119f)
 > ![image](https://github.com/user-attachments/assets/fcb31da2-a759-4e42-bd23-beb8da616e61)
-> 
+> ![image](https://github.com/user-attachments/assets/1314f2f0-6bea-40df-b7bd-e283ac2d4c28)
+
 
 
 

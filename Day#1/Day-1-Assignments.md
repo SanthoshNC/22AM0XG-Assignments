@@ -49,6 +49,17 @@
 8 Docker search nginx
 ![image](https://github.com/user-attachments/assets/3ec3f6b0-e658-4e41-b93c-89c66f710213)
 
+9 docker images
+![image](https://github.com/user-attachments/assets/c283178a-d476-416c-9790-ca081c4ab299)
+
+10 docker pull
+![image](https://github.com/user-attachments/assets/ca51cc93-4fea-4e08-badd-b3d186929da0)
+
+11 docker run -idt nginx
+![image](https://github.com/user-attachments/assets/d42cf019-4e25-414a-8fa4-a89e57f08b54)
+
+
+
 
 
 
@@ -64,7 +75,8 @@
 ***
 
 #### #3 [Python] Create a sample flask app and edit the same to showcase your college information(Name, Register_number,etc)
-> Add your answer here!
+![image](https://github.com/user-attachments/assets/fb65815f-e064-4d1c-9011-cd7e13ed2c3e)
+
 
 ***
 

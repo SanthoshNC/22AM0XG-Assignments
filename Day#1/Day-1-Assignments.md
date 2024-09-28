@@ -6,7 +6,7 @@
 | Status         | Questions     | 
 |----------------|---------------|
 | <ul><li>- [x] </li></ul> | Execute 25 Docker CLI commands, capture the output screenshots, and document each command's usage on a GitHub Wiki page. |
-| <ul><li>- [ ] </li></ul> | Install VSCode and Python. Check the version of Python. Document these steps in GitHub Wiki. |
+| <ul><li>- [x] </li></ul> | Install VSCode and Python. Check the version of Python. Document these steps in GitHub Wiki. |
 | <ul><li>- [ ] </li></ul> | [Python] Create a sample flask app and edit the same to showcase your college information(Name, Register_number,etc) |
 | <ul><li>- [ ] </li></ul> | [Docker] Create the docker image for the above-mentioned flask app and run the same view of the page in a browser |
 | <ul><li>- [ ] </li></ul> | [Docker] Create a docker compose file for the 2 images: nginx/httpd and run the same view of the page in a browser |
@@ -48,6 +48,7 @@
 
 #### #2 Install VSCode and Python. Check the version of Python. Document these steps in GitHub Wiki
 ![python-01](https://github.com/user-attachments/assets/eab7cd02-07c7-47df-b4f7-21bb8431b4ca)
+![Screenshot 2024-09-28 162626](https://github.com/user-attachments/assets/816ae5d1-6ba3-4389-980e-c0e8164b1347)
 
 
 ***

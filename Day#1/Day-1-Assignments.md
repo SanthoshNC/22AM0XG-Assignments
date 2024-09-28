@@ -95,7 +95,14 @@
 ***
 
 #### #4 [Docker] Create the docker image for the above-mentioned flask app and run the same view of the page in a browser
-> Add your answer here!
+1. heloworld
+   <img width="443" alt="image" src="https://github.com/user-attachments/assets/da69ed02-b19c-488e-9666-0400e4c6921e">
+2.  flask
+    <img width="616" alt="image" src="https://github.com/user-attachments/assets/8635e904-b670-4eea-9cba-dc4916628c8c">
+3. flask local host
+   <img width="959" alt="image" src="https://github.com/user-attachments/assets/99d1fca0-57d7-4f5e-9c47-10cc35130498">
+
+
 
 ***
 

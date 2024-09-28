@@ -76,7 +76,12 @@
 17 docker rm 
 ![image](https://github.com/user-attachments/assets/d7ef86e9-c346-4e73-aa35-5df8da4c21c9)
 
-18 docker 
+18 docker build
+![image](https://github.com/user-attachments/assets/b1006872-fe51-4864-98d1-87cb87c67294)
+
+19 docker run
+
+
 
 ***
 

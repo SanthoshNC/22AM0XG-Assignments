@@ -59,7 +59,13 @@
     ![image](https://github.com/user-attachments/assets/bead6c52-1372-4a60-bd46-e7587556ff1b)
 17. docker start <br>
     ![image](https://github.com/user-attachments/assets/79e370db-2159-4b58-b447-9aa9d5c534d9)
-18. docker
+18. docker build <br>
+    ![image](https://github.com/user-attachments/assets/1f16edc1-83c9-4eed-afb5-ec5a71d0d202)
+19. docker push <br>
+    ![image](https://github.com/user-attachments/assets/95356f1a-4156-43ff-a16b-07f6006709e2)
+20. docker pull <br>
+    
+
 
 ***
 

@@ -26,32 +26,34 @@
 
 #### #1 Execute 25 Docker CLI commands, capture the output screenshots, and document each command's usage on a GitHub Wiki page
 docker version
-![image](https://github.com/user-attachments/assets/a09b787d-48e0-4e80-baa9-4853c757bd39)
+![image](https://github.com/user-attachments/assets/13d169f6-4c63-4d16-9193-2eb00c74d16d)
 docker info
-![image](https://github.com/user-attachments/assets/cc40e7a4-65bb-4e7c-b537-4fc82549b76c)
+![image](https://github.com/user-attachments/assets/552a3f08-9436-4f30-9224-d55db769ca6d)
 docker system info
-![image](https://github.com/user-attachments/assets/81905606-30fd-442a-b6f4-c17a470a86a1)
+![image](https://github.com/user-attachments/assets/34a6fb57-5539-4951-a9d4-cd7958230830)
 docker --help
-![image](https://github.com/user-attachments/assets/131857df-a04a-4a84-89ee-8cacba67367b)
+![image](https://github.com/user-attachments/assets/c1961fc9-6048-4c66-96ff-25eee248fc88)
 docker compose version
-![image](https://github.com/user-attachments/assets/7acd9b43-04b6-4dc0-9d62-f90c96838ade)
+![image](https://github.com/user-attachments/assets/2153dc28-5b00-47e6-8c71-4dd8327f8a67)
 docker login
-![image](https://github.com/user-attachments/assets/0e33709a-5e32-4b68-97ec-249f9ce6eafc)
+![image](https://github.com/user-attachments/assets/3d1c712b-bc36-45c5-91b7-7fdf961da4da)
 docker logout
-![image](https://github.com/user-attachments/assets/c181fa62-0b2d-4f1e-a0b5-90c6f7e1702b)
+![image](https://github.com/user-attachments/assets/bc0378d0-75b2-4f33-8e48-74d7676c4dac)
+docker search nginx
+![image](https://github.com/user-attachments/assets/aa81834f-d23d-4e37-b739-e4eba4fd04ed)
+
 
 
 
 
 #### #2 Install VSCode and Python. Check the version of Python. Document these steps in GitHub Wiki
-> Add your answer here!
-
-***
+python --version
+![image](https://github.com/user-attachments/assets/1a06098d-1b70-4ec3-92be-13edd152fcdb)
 
 #### #3 [Python] Create a sample flask app and edit the same to showcase your college information(Name, Register_number,etc)
 > Add your answer here!
+![image](https://github.com/user-attachments/assets/fd2108a2-2d3d-4962-9679-a4c6e342af02)
 
-***
 
 #### #4 [Docker] Create the docker image for the above-mentioned flask app and run the same view of the page in a browser
 > Add your answer here!

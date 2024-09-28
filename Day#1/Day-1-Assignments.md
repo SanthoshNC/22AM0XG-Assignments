@@ -25,29 +25,67 @@
 > Pls don't copy from others. Marks will be reduced for both students
 
 #### #1 Execute 25 Docker CLI commands, capture the output screenshots, and document each command's usage on a GitHub Wiki page
-sudo docker version
+1) sudo docker version
 ![image](https://github.com/user-attachments/assets/2902533c-0569-45f7-bf32-120b4507c4f1)
 
-sudo docker info
+2) sudo docker info
 ![image](https://github.com/user-attachments/assets/1b655381-bcfb-4862-b933-2a708355c6f2)
 
-sudo docker systeminfo
+3) sudo docker systeminfo
 ![image](https://github.com/user-attachments/assets/46676842-be98-43d7-bc40-df98844e211a)
 
-sudo docker --help
+4) sudo docker --help
 ![image](https://github.com/user-attachments/assets/45f69653-78a4-4e3d-95bc-ff89aaedd4af)
 
-sudo docker compose version
+5) sudo docker compose version
 ![image](https://github.com/user-attachments/assets/c0db1e06-40a3-4658-97c1-3934b5134e71)
 
-sudo docker login
+6) sudo docker login
 ![image](https://github.com/user-attachments/assets/871da405-90fb-41a4-8876-215f28c90add)
 
-sudo docker logout
+7) sudo docker logout
 ![image](https://github.com/user-attachments/assets/947c380e-160e-47c1-9314-e1e5bce25627)
 
-sudo docker nginx
+8) sudo docker nginx
 ![image](https://github.com/user-attachments/assets/3d56d340-0e60-4061-932c-ab82b8033f9a)
+
+9) docker images
+![image](https://github.com/user-attachments/assets/99f4de90-a80c-4083-a282-292abcbb4cfe)
+
+10) docker pull nginx
+![image](https://github.com/user-attachments/assets/0a1fa0e4-c9bc-42f0-8fcd-1d11c606c68b)
+
+11) docker run -idt nginx
+![image](https://github.com/user-attachments/assets/7b1083c1-36d8-4374-a4a0-715b0c678425)
+
+12) docker ps
+![image](https://github.com/user-attachments/assets/cc6a395d-9a86-4695-8204-adaa576ea814)
+
+13) docker stop (id)
+![image](https://github.com/user-attachments/assets/e519f75b-d512-4f50-b726-b6a02963b9f1)
+
+14) docker start (id)
+![image](https://github.com/user-attachments/assets/1226a714-bab1-4835-80a7-ac0b4bf53c25)
+
+15) docker restart (id)
+![image](https://github.com/user-attachments/assets/85b83022-0759-49e5-a38c-51eb13ce6008)
+
+16) docker logs (id)
+![image](https://github.com/user-attachments/assets/a2c2bf8d-c1d2-42e8-bbe3-c2162f24574b)
+
+17) docker rm (id)
+![image](https://github.com/user-attachments/assets/ca6a5aa3-3d61-47c0-9f1c-e15023bd7c33)
+
+18) docker build -t pawang08/hello-world .
+ ![image](https://github.com/user-attachments/assets/cc504ad6-40ff-4768-840d-96e7838c2e3b)
+
+19) docker push pawang08/hello-world
+![image](https://github.com/user-attachments/assets/86e501d1-99ac-4f9f-87fc-34954f59ec2c)
+
+20) 
+
+
+
 
 
 
@@ -76,12 +114,21 @@ code --version
 helloworld program
 ![image](https://github.com/user-attachments/assets/41f9fb1f-16d1-4441-8634-cbb68cf938d5)
 
+![image](https://github.com/user-attachments/assets/8dab896f-4eb4-4b49-92ce-366b8d33feb7)
+
+
+flask app.py
+![image](https://github.com/user-attachments/assets/18090c6d-bf91-4830-8577-7302bcf741d0)
+
+![image](https://github.com/user-attachments/assets/ca8831b0-e4e9-40b7-8d3b-a26eccb455f5)
+
 
 
 ***
 
 #### #4 [Docker] Create the docker image for the above-mentioned flask app and run the same view of the page in a browser
-> Add your answer here!
+> ![image](https://github.com/user-attachments/assets/58fefe28-ef14-424f-a2dc-a1466b42ab51)
+
 
 ***
 

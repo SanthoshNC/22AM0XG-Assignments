@@ -47,6 +47,21 @@
     <img width="657" alt="image" src="https://github.com/user-attachments/assets/29bb1655-a8c8-4f7e-955b-d65ad8850e2a">
 11. docker run -idt nginx
     <img width="464" alt="image" src="https://github.com/user-attachments/assets/a527b243-77d5-4e2f-8779-727b7d64108d">
+12. docker ps
+    <img width="758" alt="image" src="https://github.com/user-attachments/assets/909a56a0-616d-4d7f-a567-0c8ae24f5500">
+13. docker stop c58f7671fc31 
+    <img width="334" alt="image" src="https://github.com/user-attachments/assets/8afc01cd-4099-4eae-917c-2f049b8ea7a3">
+14. docker restart c58f7671fc31
+    <img width="307" alt="image" src="https://github.com/user-attachments/assets/b1992b83-c5ab-48ab-a650-831c3d4d8a7b">
+15. docker logs c58f7671fc31
+    <img width="694" alt="image" src="https://github.com/user-attachments/assets/e8080e11-7608-4869-a71f-3bf799ee27e4">
+16. docker rm c58f7671fc31
+    <img width="527" alt="image" src="https://github.com/user-attachments/assets/165ebd72-9f9e-4a1f-bca7-d57cd2e890af">
+
+
+
+
+
 
 
 

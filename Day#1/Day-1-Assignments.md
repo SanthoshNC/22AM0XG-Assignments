@@ -26,26 +26,26 @@
 
 #### #1 Execute 25 Docker CLI commands, capture the output screenshots, and document each command's usage on a GitHub Wiki page
 
-sudo docker version
+1. sudo docker version
 ![Screenshot from 2024-09-28 10-55-08](https://github.com/user-attachments/assets/696d7a38-b9a8-4503-9d69-cb22fa3ce79a)
 
-sudo docker info
+2. sudo docker info
 ![sudo docker info](https://github.com/user-attachments/assets/5bb44a7d-c208-4c4e-b0fa-6328267692da)
 
-sudo docker system info
+3. sudo docker system info
 ![sudo docker system info](https://github.com/user-attachments/assets/391b9695-3275-4157-b69a-556bfde837a8)
 
-sudo docker --help
+4. sudo docker --help
 ![sudo docker --help](https://github.com/user-attachments/assets/c93e0563-58dc-4cd7-8e65-5087f47d239d)
 
-docker login
+5. docker login
 ![docker login](https://github.com/user-attachments/assets/5ef3133b-3f93-4620-9b35-2164d37fda08)
 
-docker logout
+6. docker logout
 
 ![docker logout](https://github.com/user-attachments/assets/084e1c9a-6e6c-46cc-9796-718ceb536ecc)
 
-docker search nginx
+7. docker search nginx
 ![docker search nginx](https://github.com/user-attachments/assets/50498068-609f-4bac-a11f-f5cdb57ad621)
 
 

@@ -38,14 +38,19 @@
    ![image](https://github.com/user-attachments/assets/d058e530-510e-45c5-871f-06b076adaa31)
 
 5. docker compose version
+   
    ![image](https://github.com/user-attachments/assets/fbc910ab-72a2-41f3-a285-41151fb59a8e)
 
 6. docker login
+   
    ![image](https://github.com/user-attachments/assets/7de4f324-8028-4320-834e-5985293f17b2)
 
-8. docker logout
+7. docker logout
    ![image](https://github.com/user-attachments/assets/d0d98d78-98ba-45fd-886e-4e21978cf220)
-   
+
+8. docker search <image name> (docker search ngnix)
+    ![image](https://github.com/user-attachments/assets/515f5b25-aa8e-4ff4-8aed-ccf1512b6c0f)
+
 
 
 

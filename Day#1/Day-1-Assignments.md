@@ -42,6 +42,7 @@ docker login
 ![docker login](https://github.com/user-attachments/assets/5ef3133b-3f93-4620-9b35-2164d37fda08)
 
 docker logout
+
 ![docker logout](https://github.com/user-attachments/assets/084e1c9a-6e6c-46cc-9796-718ceb536ecc)
 
 docker search nginx

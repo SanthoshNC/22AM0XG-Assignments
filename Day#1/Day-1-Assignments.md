@@ -100,6 +100,17 @@ docker rm efbb700bdacd
 
 ![image](https://github.com/user-attachments/assets/44dcd62f-f421-475c-b814-a814b999c086)
 
+docker run hello_world
+
+![image](https://github.com/user-attachments/assets/2b3bbec2-5f36-4927-aca5-2211e9df84b0)
+
+docker pull abinaya670/python-hello-world
+docker run abinaya670/python-hello-world
+
+![image](https://github.com/user-attachments/assets/7db1f143-9e68-41c6-b7a8-18224c488724)
+
+
+
 
 
 

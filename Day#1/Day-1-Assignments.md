@@ -28,6 +28,26 @@
 1. docker version
    ![image](https://github.com/user-attachments/assets/19919025-07ac-4476-8590-6e7269bb6bbf)
 
+2. docker info
+   ![image](https://github.com/user-attachments/assets/2c48bcd8-9080-4c73-bb65-d298c00b973e)
+
+3. docker system info
+   ![image](https://github.com/user-attachments/assets/e22d9980-9981-45cb-b30f-1e46bbb5d5d9)
+
+4. docker --help
+   ![image](https://github.com/user-attachments/assets/d058e530-510e-45c5-871f-06b076adaa31)
+
+5. docker compose version
+   ![image](https://github.com/user-attachments/assets/fbc910ab-72a2-41f3-a285-41151fb59a8e)
+
+6. docker login
+  ![image](https://github.com/user-attachments/assets/7de4f324-8028-4320-834e-5985293f17b2)
+
+8. docker logout
+   ![image](https://github.com/user-attachments/assets/d0d98d78-98ba-45fd-886e-4e21978cf220)
+   
+
+
 
 
 ***

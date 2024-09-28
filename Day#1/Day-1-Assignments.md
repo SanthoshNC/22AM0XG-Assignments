@@ -19,9 +19,7 @@
 ### Day 1 Assignments - Answers and Screenshots
 
 > [!WARNING]
-
-
-
+> provide correct screenshots
 > [!CAUTION]
 > Pls don't copy from others. Marks will be reduced for both students
 
@@ -49,8 +47,37 @@
 7) docker logout
 ![image](https://github.com/user-attachments/assets/95fd7813-4503-4d02-be00-5c0b9b4b9d50)
 
-8) docker search
+8) docker search 
 ![image](https://github.com/user-attachments/assets/75f9d1c7-1112-4bd8-accb-cd4c7be21062)
+
+9) docker images  (list the images)
+![image](https://github.com/user-attachments/assets/438a55fe-253f-4b6e-8930-229d00c5c769)
+
+10) docker pull nginx 
+![image](https://github.com/user-attachments/assets/c901c309-08fa-42f2-b192-b04df2b8ae01)
+
+11) docker run -idt nginx
+![image](https://github.com/user-attachments/assets/9b575211-6c36-4b74-8cc9-73de81336fb2)
+
+12) docker ps (list the containers)
+![image](https://github.com/user-attachments/assets/d0559d32-b2bf-4760-b9ff-17a2c155f5e9)
+
+13) docker stop <container-id> :
+![image](https://github.com/user-attachments/assets/fc48a153-bb97-40a3-8a63-93012610a2d8)
+
+14) docker start <container-id> :
+![image](https://github.com/user-attachments/assets/a40dba03-1c74-41ff-a147-f4c77f7a377a)
+
+15) docker restart <container-id> :
+![image](https://github.com/user-attachments/assets/b9031304-79de-4d3c-8db5-c83e9609bc6e)
+
+16) docker logs <container-id> :
+![image](https://github.com/user-attachments/assets/4ad4081d-55c2-43bf-9126-819914c19f0b)
+
+17) docker rm <container-id> :
+![image](https://github.com/user-attachments/assets/1fb1d8f0-77ef-4349-ac70-a861f7dc7201)
+
+    
 
 
 
@@ -64,6 +91,7 @@
 #### #2 Install VSCode and Python. Check the version of Python. Document these steps in GitHub Wiki
 1) vscode and python version:
 ![image](https://github.com/user-attachments/assets/ff149cbd-d729-4823-8b48-a8cf3227ea1e)
+
 
 
 

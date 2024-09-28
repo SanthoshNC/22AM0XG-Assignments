@@ -28,17 +28,19 @@
 1. docker version
    ![image](https://github.com/user-attachments/assets/e0bbece7-efa7-444c-8e4e-fe18bc234172)
 2. docker info
-    ![image](https://github.com/user-attachments/assets/5f0c6fee-b256-48d7-be82-3fb5488f45b4)
+   ![image](https://github.com/user-attachments/assets/5f0c6fee-b256-48d7-be82-3fb5488f45b4)
 3. docker system info
-     ![image](https://github.com/user-attachments/assets/23f1aaee-a0b8-43bf-be18-e7839e14cff7)
+   ![image](https://github.com/user-attachments/assets/23f1aaee-a0b8-43bf-be18-e7839e14cff7)
 4. docker --help
-     ![image](https://github.com/user-attachments/assets/9c7fac9c-e0c7-4eb0-9793-40acf28926d9)
+   ![image](https://github.com/user-attachments/assets/9c7fac9c-e0c7-4eb0-9793-40acf28926d9)
 5. docker compose version <br>
- ![image](https://github.com/user-attachments/assets/3e189bbe-d326-4fdc-b403-dbe47a1fe3ee)
+   ![image](https://github.com/user-attachments/assets/3e189bbe-d326-4fdc-b403-dbe47a1fe3ee)
 6. docker login <br>
    ![image](https://github.com/user-attachments/assets/a51126a3-ff9a-4fb9-933c-1abe3e3a2d0f)
 7. docker logout <br>
    ![image](https://github.com/user-attachments/assets/2b4b2fee-0e07-4b55-9ee9-bd5adbc0e3e3)
+8. docker search ngnix
+   ![image](https://github.com/user-attachments/assets/9a752439-a077-4871-a8f0-65f597ec421c)
 
 
     

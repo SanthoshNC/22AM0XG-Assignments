@@ -38,6 +38,12 @@ sudo docker system info
 sudo docker --help
 ![sudo docker --help](https://github.com/user-attachments/assets/c93e0563-58dc-4cd7-8e65-5087f47d239d)
 
+docker login
+![docker login](https://github.com/user-attachments/assets/5ef3133b-3f93-4620-9b35-2164d37fda08)
+
+docker logout
+![docker logout](https://github.com/user-attachments/assets/084e1c9a-6e6c-46cc-9796-718ceb536ecc)
+
 docker search nginx
 ![docker search nginx](https://github.com/user-attachments/assets/50498068-609f-4bac-a11f-f5cdb57ad621)
 

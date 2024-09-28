@@ -26,7 +26,10 @@
 
 #### #1 Execute 25 Docker CLI commands, capture the output screenshots, and document each command's usage on a GitHub Wiki page
 docker version
-***![image](https://github.com/user-attachments/assets/a09b787d-48e0-4e80-baa9-4853c757bd39)
+![image](https://github.com/user-attachments/assets/a09b787d-48e0-4e80-baa9-4853c757bd39)
+docker info
+![image](https://github.com/user-attachments/assets/cc40e7a4-65bb-4e7c-b537-4fc82549b76c)
+
 
 
 #### #2 Install VSCode and Python. Check the version of Python. Document these steps in GitHub Wiki

@@ -80,6 +80,11 @@
 ![image](https://github.com/user-attachments/assets/b1006872-fe51-4864-98d1-87cb87c67294)
 
 19 docker run
+![image](https://github.com/user-attachments/assets/b3ea836c-7b8c-4352-b369-b1a8ee317fbc)
+
+20 docker images
+![image](https://github.com/user-attachments/assets/b6916171-cafe-44e5-8f78-5156f756f7b4)
+
 
 
 

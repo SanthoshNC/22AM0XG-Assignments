@@ -55,6 +55,15 @@ docker logs fdc3b947c73c
 > ![image](https://github.com/user-attachments/assets/9223669e-2b50-4a8a-a307-6bd0b0023288)
 docker remove fdc3b947c73c
 > ![image](https://github.com/user-attachments/assets/cddd8137-e772-4677-8116-374c70ceb74b)
+docker push abinaya670/python-hello-world
+docker run python-hello-world
+> ![image](https://github.com/user-attachments/assets/2b8198fc-d5fe-48e1-8a91-37369cc55adb)
+tested
+docker pull lohitha08/hello_world
+docker run lohitha08/hello_world
+> ![image](https://github.com/user-attachments/assets/fc01e4a8-214a-4c17-a26c-e743074bd9b0)
+
+
 
 
 
@@ -80,7 +89,9 @@ app.py
 ***
 
 #### #4 [Docker] Create the docker image for the above-mentioned flask app and run the same view of the page in a browser
-> Add your answer here!
+> ![image](https://github.com/user-attachments/assets/6b3c4a61-e102-461a-a3b9-c2987eea03c8)
+
+
 
 ***
 

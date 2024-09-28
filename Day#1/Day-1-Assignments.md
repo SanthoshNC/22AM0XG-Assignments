@@ -39,8 +39,15 @@
    ![image](https://github.com/user-attachments/assets/a51126a3-ff9a-4fb9-933c-1abe3e3a2d0f)
 7. docker logout <br>
    ![image](https://github.com/user-attachments/assets/2b4b2fee-0e07-4b55-9ee9-bd5adbc0e3e3)
-8. docker search ngnix
+8. docker search nginx
    ![image](https://github.com/user-attachments/assets/9a752439-a077-4871-a8f0-65f597ec421c)
+9. docker images <br>
+    ![image](https://github.com/user-attachments/assets/628d367d-643e-49a6-9563-3b5c00f173f7)
+10. docker pull nginx <br>
+    ![image](https://github.com/user-attachments/assets/69640317-fd04-4f29-8029-7f91ffc99d50)
+11. docker run -idt nginx <br>
+    ![image](https://github.com/user-attachments/assets/69c3c493-66df-4e6e-92be-c1c54ddf2642)
+12. 
 
 
     
@@ -51,7 +58,6 @@
 #### #2 Install VSCode and Python. Check the version of Python. Document these steps in GitHub Wiki
 1. python -V <br>
    ![image](https://github.com/user-attachments/assets/81e63231-1d1b-4b8e-8c67-faaa7a6b276c)
-
 
 ***
 

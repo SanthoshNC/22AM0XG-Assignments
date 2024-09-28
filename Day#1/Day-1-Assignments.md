@@ -27,12 +27,36 @@
 #### #1 Execute 25 Docker CLI commands, capture the output screenshots, and document each command's usage on a GitHub Wiki page
 1. docker --version
    <img width="478" alt="image" src="https://github.com/user-attachments/assets/e42efba3-749e-42de-b0d9-6a170c3b63ca">
+2. docker info
+   <img width="678" alt="image" src="https://github.com/user-attachments/assets/4be439aa-a960-4a65-a082-d08274d35870">
+3. docker system info
+   <img width="650" alt="image" src="https://github.com/user-attachments/assets/060a7940-21b8-44a4-9498-34e8782cb648">
+4. docker --help
+   <img width="602" alt="image" src="https://github.com/user-attachments/assets/74f04b79-f8f4-454c-b900-3c1bd28c53ba">
+5. docker compose version
+   <img width="320" alt="image" src="https://github.com/user-attachments/assets/198c81c1-9c52-4ffc-883a-8ee629460fa0">
+6. docker login
+   <img width="367" alt="image" src="https://github.com/user-attachments/assets/534eb86e-bc6f-4fd0-ae37-b5f3d40683d5">
+7. docker logout
+   <img width="445" alt="image" src="https://github.com/user-attachments/assets/fad1e4e7-fde9-4680-b4c1-300a82254074">
+8. docker search nginx
+   <img width="717" alt="image" src="https://github.com/user-attachments/assets/ed14ff33-7d81-4e61-8201-acaea1cd0441">
+9. 
+
+
+
+
+
+
 
 
 ***
 
 #### #2 Install VSCode and Python. Check the version of Python. Document these steps in GitHub Wiki
-> Add your answer here!
+1. Python --version
+   <img width="226" alt="image" src="https://github.com/user-attachments/assets/5263ec63-7a4e-4d32-90af-c2908f349f03">
+ 
+
 
 ***
 

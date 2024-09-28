@@ -1,4 +1,4 @@
-### Day 1 Assignments
+![image](https://github.com/user-attachments/assets/eb70e1de-d07c-4dc7-bd21-1c7a2fdb66e9)### Day 1 Assignments
 
 > [!NOTE]
 > Pls edit this table while submitting the assignments
@@ -53,8 +53,41 @@
 
     ![image](https://github.com/user-attachments/assets/515f5b25-aa8e-4ff4-8aed-ccf1512b6c0f)
 
+9. docker images
 
+   ![image](https://github.com/user-attachments/assets/db0cdbcc-0a1a-445c-9c87-3df0c1dd6f36)
 
+10. docker pull nginx
+
+   ![image](https://github.com/user-attachments/assets/ef235e16-6eea-48e8-aa21-4332467b69a1)
+
+11. docker run -idt nginx
+
+    ![image](https://github.com/user-attachments/assets/87a9db33-44a3-46ba-a04d-be88a0e427a4)
+
+12. docker ps
+
+      ![image](https://github.com/user-attachments/assets/1cce1f01-881a-4f39-8513-ff86eebee34b)
+
+13. docker stop 0a61ee1e6371
+
+    ![image](https://github.com/user-attachments/assets/c705be3b-99ae-4392-9c98-800d19f06f8f)
+
+14. docker restart 0a61ee1e6371
+ 
+      ![image](https://github.com/user-attachments/assets/893ba9c4-0542-49a9-bb5d-d728e800d528)
+
+15. docker start 0a61ee1e6371
+
+       ![image](https://github.com/user-attachments/assets/160013f5-9b34-48e3-b9be-98e341a38c01)
+       
+16. docker logs 0a61ee1e6371
+   
+       ![image](https://github.com/user-attachments/assets/b61426ea-6a53-4a09-be9c-05777b752d55)
+    
+17. docker rm 0a61ee1e6371
+
+      ![image](https://github.com/user-attachments/assets/88f95520-3209-47d4-9f90-db2a07da9357)
 
 
 ***

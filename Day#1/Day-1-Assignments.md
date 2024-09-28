@@ -89,6 +89,19 @@
 
       ![image](https://github.com/user-attachments/assets/88f95520-3209-47d4-9f90-db2a07da9357)
 
+18. docker build -t ashwin250304/hello-world-py
+
+      ![image](https://github.com/user-attachments/assets/b163842b-b1f1-4275-9e48-a2610feb5ea4)
+
+19. docker run ashwin250304/hello-world-py
+
+   ![image](https://github.com/user-attachments/assets/b7333b42-eaf1-4800-8770-7358a4438329)
+
+20. docker push ashwin250304/hello-world-py
+
+   ![image](https://github.com/user-attachments/assets/50c401a8-45bf-492c-bf99-1248bc357f42)
+
+
 
 ***
 

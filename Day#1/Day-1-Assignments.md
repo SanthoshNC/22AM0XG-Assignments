@@ -25,11 +25,11 @@
 > Pls don't copy from others. Marks will be reduced for both students
 
 #### #1 Execute 25 Docker CLI commands, capture the output screenshots, and document each command's usage on a GitHub Wiki page
-> ![image](https://github.com/user-attachments/assets/863f2ef6-d933-4cc9-a169-ad3104b8d3c0) //Learned and executed the commands - docker version, docker info
-> ![image](https://github.com/user-attachments/assets/513ba1e8-64f9-48c6-b196-00da2f2ca2ad) // Learned and executed the commands - docker system info
-> ![image](https://github.com/user-attachments/assets/4f3b8cac-e04c-461f-8634-3e2fd54b5edd) // Learned and executed the commands - docker --help
-> ![image](https://github.com/user-attachments/assets/21357e1c-1d35-4eca-b53a-550e1f27c4ee) // Learned and executed the commands - docker compose version, docker login, docker logout
-> ![image](https://github.com/user-attachments/assets/592e7548-b1d2-4acc-ace1-caf6055764ae) // Learned and executed the commands - docker search nginx
+> //Learned and executed the commands - docker version, docker info ![image](https://github.com/user-attachments/assets/863f2ef6-d933-4cc9-a169-ad3104b8d3c0) 
+> // Learned and executed the commands - docker system info ![image](https://github.com/user-attachments/assets/513ba1e8-64f9-48c6-b196-00da2f2ca2ad) 
+> // Learned and executed the commands - docker --help ![image](https://github.com/user-attachments/assets/4f3b8cac-e04c-461f-8634-3e2fd54b5edd) 
+> // Learned and executed the commands - docker compose version, docker login, docker logout ![image](https://github.com/user-attachments/assets/21357e1c-1d35-4eca-b53a-550e1f27c4ee) 
+> // Learned and executed the commands - docker search nginx ![image](https://github.com/user-attachments/assets/592e7548-b1d2-4acc-ace1-caf6055764ae) 
 > 
 
 

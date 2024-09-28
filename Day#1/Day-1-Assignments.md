@@ -49,9 +49,11 @@
 ![docker search nginx](https://github.com/user-attachments/assets/50498068-609f-4bac-a11f-f5cdb57ad621)
 
 8. docker images
+   
 ![docker images](https://github.com/user-attachments/assets/8075f61a-4738-46e9-ba5c-c1c7f0d40878)
 
-9. docker pull
+10. docker pull
+   
 ![docker pull](https://github.com/user-attachments/assets/77a0b711-d995-4707-a961-dac73afdbe8a)
 
 ***

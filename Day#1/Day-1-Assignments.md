@@ -148,7 +148,7 @@ Bulding and running the image for the flask hello world application is given bel
 ![image](https://github.com/user-attachments/assets/b4c3c78f-8cdc-4206-b37d-d4892abfe8b7)
 ![image](https://github.com/user-attachments/assets/7887d74e-73aa-454a-bb93-9c2967ce910e)
 ![image](https://github.com/user-attachments/assets/9b3807dc-39f2-4156-b2b4-6ec01d4abb3b)
-![image](https://github.com/user-attachments/assets/7eeebd65-b09f-4802-bbd6-1fe16aabcfb6)
+
 
 
 4) Testing my friend's flask app by pulling it and running it using "docker run -idt -p 5000:5000 pawang08/app"

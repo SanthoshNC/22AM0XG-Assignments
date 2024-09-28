@@ -19,7 +19,9 @@
 ### Day 1 Assignments - Answers and Screenshots
 
 > [!WARNING]
-> Pls submit the correct screenshots
+> 1) checking docker version:
+![image](https://github.com/user-attachments/assets/a48cea68-2224-4bfc-970b-f9f8ba5192ec)
+
 
 > [!CAUTION]
 > Pls don't copy from others. Marks will be reduced for both students

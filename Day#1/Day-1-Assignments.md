@@ -41,7 +41,17 @@
    <img width="445" alt="image" src="https://github.com/user-attachments/assets/fad1e4e7-fde9-4680-b4c1-300a82254074">
 8. docker search nginx
    <img width="717" alt="image" src="https://github.com/user-attachments/assets/ed14ff33-7d81-4e61-8201-acaea1cd0441">
-9. 
+9. docker images
+    <img width="470" alt="image" src="https://github.com/user-attachments/assets/578fc441-e0cd-4704-b321-bedce89d4960">
+10. docker pull nginx
+    <img width="657" alt="image" src="https://github.com/user-attachments/assets/29bb1655-a8c8-4f7e-955b-d65ad8850e2a">
+11. docker run -idt nginx
+    <img width="464" alt="image" src="https://github.com/user-attachments/assets/a527b243-77d5-4e2f-8779-727b7d64108d">
+
+
+
+    
+
 
 
 
@@ -56,13 +66,13 @@
 1. Python --version
    <img width="226" alt="image" src="https://github.com/user-attachments/assets/5263ec63-7a4e-4d32-90af-c2908f349f03">
  
-
-
 ***
 
 #### #3 [Python] Create a sample flask app and edit the same to showcase your college information(Name, Register_number,etc)
-1. <img width="347" alt="image" src="https://github.com/user-attachments/assets/e5f73a25-83fe-4840-9172-a54973059ac2">
-2. <img width="543" alt="image" src="https://github.com/user-attachments/assets/e4bcc1c0-e822-4ad9-9f13-74cd9f10b8e8">
+1. Hello world program
+   <img width="347" alt="image" src="https://github.com/user-attachments/assets/e5f73a25-83fe-4840-9172-a54973059ac2">
+3. Flask App Program
+   <img width="543" alt="image" src="https://github.com/user-attachments/assets/e4bcc1c0-e822-4ad9-9f13-74cd9f10b8e8">
 
 
 

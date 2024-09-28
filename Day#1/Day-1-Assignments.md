@@ -41,6 +41,24 @@ docker logout
 > ![image](https://github.com/user-attachments/assets/f88ef4fe-e9d8-49c8-b595-0cb5c22d023c)
 docker search nginx
 > ![image](https://github.com/user-attachments/assets/8c816c6c-b438-4c3f-918b-7988705e23f1)
+docker images
+docker pull nginx
+docker pull nginx
+> ![image](https://github.com/user-attachments/assets/9ed6017b-cac2-4e30-a0bd-923e81eff5e6)
+docker reun -idt nginx
+docker ps
+> ![image](https://github.com/user-attachments/assets/534c0c1f-98b9-4b8e-9c9b-1b0498c40e8e)
+docker stop fdc3b947c73c
+docker start fdc3b947c73c
+docker restart fdc3b947c73c
+docker logs fdc3b947c73c
+> ![image](https://github.com/user-attachments/assets/9223669e-2b50-4a8a-a307-6bd0b0023288)
+docker remove fdc3b947c73c
+> ![image](https://github.com/user-attachments/assets/cddd8137-e772-4677-8116-374c70ceb74b)
+
+
+
+
 ***
 
 #### #2 Install VSCode and Python. Check the version of Python. Document these steps in GitHub Wiki
@@ -52,7 +70,11 @@ python --version
 ***
 
 #### #3 [Python] Create a sample flask app and edit the same to showcase your college information(Name, Register_number,etc)
+hello_world.py
 > ![image](https://github.com/user-attachments/assets/acf64ceb-0ab7-44d4-8ec5-00bad964b6e2)
+app.py
+> ![image](https://github.com/user-attachments/assets/9ee0505a-551e-42c8-a546-e38e06adc6b5)
+
 
 
 ***

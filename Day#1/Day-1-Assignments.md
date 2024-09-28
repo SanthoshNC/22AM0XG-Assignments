@@ -56,6 +56,12 @@
    
 ![docker pull](https://github.com/user-attachments/assets/77a0b711-d995-4707-a961-dac73afdbe8a)
 
+11. docker run -idt nginx
+
+![docker run ](https://github.com/user-attachments/assets/def4ea76-5b67-46a8-ba7d-b9cce8dbcc27)
+
+
+
 ***
 
 #### #2 Install VSCode and Python. Check the version of Python. Document these steps in GitHub Wiki

@@ -69,10 +69,14 @@
     ![image](https://github.com/user-attachments/assets/d967d485-2b8f-4db2-88d8-896ba7bc52d4)
 22. docker load <br>
     ![image](https://github.com/user-attachments/assets/195bcffe-6694-4fd8-b654-4fdf9b1ec4fa)
-23. 
-
-    
-
+23. docker exec <br>
+    ![image](https://github.com/user-attachments/assets/9ac28a74-14e4-468e-852a-08373bc1c636)
+24. docker cp <br>
+    ![image](https://github.com/user-attachments/assets/fd78be36-c024-40a3-9aa6-cc97e89c6e1d)
+25. docker run <br>
+    ![image](https://github.com/user-attachments/assets/2e23095c-0336-4224-ad14-843a95e36a1d)
+26. docker prune <br>
+    ![image](https://github.com/user-attachments/assets/52e66116-b2e1-4e45-9b16-762e678a9d86)
 
 ***
 

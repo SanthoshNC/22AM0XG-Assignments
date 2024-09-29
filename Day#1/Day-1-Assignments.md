@@ -145,8 +145,6 @@ d![image](https://github.com/user-attachments/assets/db7febb2-c759-4130-84de-795
 ![image](https://github.com/user-attachments/assets/f09948d1-8df5-489f-92eb-109fcf25cd90)
 ![image](https://github.com/user-attachments/assets/45d65d24-85e7-49ff-bcc3-f526334163ea)
 
-5) Testing my friend's docker image:
-![image](https://github.com/user-attachments/assets/24ede96a-7b2d-47bc-81f1-223a77262099)
 
 ## #Flask hello world app:
 
@@ -170,10 +168,6 @@ Bulding and running the image for the flask hello world application is given bel
 
 
 
-4) Testing my friend's flask app by pulling it and running it using "docker run -idt -p 5000:5000 pawang08/app"
-![image](https://github.com/user-attachments/assets/9ad17546-a8ef-4fc4-b928-c77e27ade233)
-![image](https://github.com/user-attachments/assets/fca973e8-1271-4830-a63e-c003aea8dfa7)
-
 
 
 
@@ -186,7 +180,14 @@ Bulding and running the image for the flask hello world application is given bel
 ***
 
 #### #6 [Docker] Pull one of the participant’s docker images and verify whether the app is running or not
-> Add your answer here!
+1) Testing my friend's docker image:
+![image](https://github.com/user-attachments/assets/24ede96a-7b2d-47bc-81f1-223a77262099)
+
+
+2) Testing my friend's flask app by pulling it and running it using "docker run -idt -p 5000:5000 pawang08/app"
+![image](https://github.com/user-attachments/assets/9ad17546-a8ef-4fc4-b928-c77e27ade233)
+![image](https://github.com/user-attachments/assets/fca973e8-1271-4830-a63e-c003aea8dfa7)
+
 
 ***
 

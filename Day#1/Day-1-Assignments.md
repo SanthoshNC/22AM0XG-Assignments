@@ -186,9 +186,10 @@ Bulding and running the image for the flask hello world application is given bel
 
 2) Testing my friend's flask app by pulling it and running it using "docker run -idt -p 5000:5000 pawang08/app"
 My friend's hello world application:
-![image](https://github.com/user-attachments/assets/9ad17546-a8ef-4fc4-b928-c77e27ade233)
--->we have to d port mapping while running flask application: "docker run -idt -p 5000:5000 pawang08/app"
+
 ![image](https://github.com/user-attachments/assets/04ab5447-e79d-46cb-a870-bcbd32c1b49e)
+-->we have to d port mapping while running flask application: "docker run -idt -p 5000:5000 pawang08/app"
+![image](https://github.com/user-attachments/assets/9ad17546-a8ef-4fc4-b928-c77e27ade233)
 ![image](https://github.com/user-attachments/assets/fca973e8-1271-4830-a63e-c003aea8dfa7)
 
 

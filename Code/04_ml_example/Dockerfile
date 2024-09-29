@@ -1,7 +1,7 @@
 FROM python:3.8-slim-buster
 
-COPY email_classification.py /
+COPY 01_email.py /
 
 RUN pip install --no-cache-dir scikit-learn
 
-CMD [ "python", "./email_classification.py" ]
+CMD [ "python", "./01_email.py" ]

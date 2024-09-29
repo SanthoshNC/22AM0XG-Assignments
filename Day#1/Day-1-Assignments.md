@@ -57,6 +57,31 @@
     <img width="694" alt="image" src="https://github.com/user-attachments/assets/e8080e11-7608-4869-a71f-3bf799ee27e4">
 16. docker rm c58f7671fc31
     <img width="527" alt="image" src="https://github.com/user-attachments/assets/165ebd72-9f9e-4a1f-bca7-d57cd2e890af">
+17. docker tag cassandra:latest cassandra:v1.0
+    <img width="509" alt="image" src="https://github.com/user-attachments/assets/56719cbd-8e2b-4b60-a583-9f9728018a6d">
+18. docker save
+    docker save -o my-python-app.tar kanitha9/my-python-app:latest
+    <img width="577" alt="image" src="https://github.com/user-attachments/assets/d28943bf-c4ce-480e-b4ed-85c086f274bd">
+19. docker load
+    docker load -i  my-python-app.tar
+    <img width="408" alt="image" src="https://github.com/user-attachments/assets/988fca39-a22c-43a7-b8b6-61938f34ca27">
+20. docker exec
+    docker exec -it ea72f1be2dbe /bin/bash
+    <img width="407" alt="image" src="https://github.com/user-attachments/assets/d0699596-187a-4291-aa44-b8c40ff954e2">
+21. docker cp
+    docker cp  simple.txt.txt ea72f1be2dbe:/simple.txt.txt
+    <img width="619" alt="image" src="https://github.com/user-attachments/assets/c2bb1705-d764-4cf2-a6d0-1a957b832cac">
+22. docker system prune
+    <img width="660" alt="image" src="https://github.com/user-attachments/assets/ce462b38-6a73-47d3-a9bf-b3df021a7087">
+
+    
+
+
+
+
+
+
+
 
 
 

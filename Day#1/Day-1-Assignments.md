@@ -38,8 +38,9 @@
 >
 > docker tag ![image](https://github.com/user-attachments/assets/efabf01b-e9e8-4c13-a2da-9b33cc631cc6)
 > docker save -o hello-world.tar dhayanithi784/hello-world:latest ![image](https://github.com/user-attachments/assets/e7a1c999-76c0-4d36-a317-a7dfa24624c1)
-> 
-![image](https://github.com/user-attachments/assets/5b5ee2a6-0917-4679-b681-3c441c736e87)
+> ![image](https://github.com/user-attachments/assets/5b5ee2a6-0917-4679-b681-3c441c736e87)
+> docker load -i hello-world.tar ![image](https://github.com/user-attachments/assets/a5131b26-56b4-4437-8474-7b59e9caee01)
+
 
 
 

@@ -40,8 +40,11 @@
 7.docker logout <br>  ![Screenshot 2024-09-28 135907](https://github.com/user-attachments/assets/3407b02c-b3eb-4c1e-84a7-075a68dd401d)
 
 8.docker search nginx <br> ![Screenshot 2024-09-28 135810](https://github.com/user-attachments/assets/43da7afc-e26e-455a-9a8a-edeaa666cef0)
+
 9.docker image <br> ![image](https://github.com/user-attachments/assets/3c864ad6-0bdb-47fd-858a-677467e07c6e)
+
 10.docker pull nginx <br> ![Screenshot 2024-09-28 150205](https://github.com/user-attachments/assets/7c7f9e72-6a95-43c6-bdd7-1ed970a5e832)
+
 11.docker run -itd nginx <br> ![Screenshot 2024-09-28 150311](https://github.com/user-attachments/assets/d4c97a2f-85eb-4cf0-b4ff-da281131615b)
 
 12.docker ps <br> ![Screenshot 2024-09-28 150404](https://github.com/user-attachments/assets/7872a407-d019-4b30-9775-bc776711550c)
@@ -56,7 +59,24 @@
 
 17.docker rm 23b0e0282ec2 <br> ![Screenshot 2024-09-28 151533](https://github.com/user-attachments/assets/88cdbde8-165a-49bb-81d6-a1e5f9ab3394)
    
-18.docker build -t
+18.docker build <br> ![Screenshot (2)](https://github.com/user-attachments/assets/4453b2d4-77e8-49e9-a77c-12391e3d8cbc)
+
+19.docker push <br> ![Screenshot (10)](https://github.com/user-attachments/assets/cd6dfc07-f29c-478a-bc37-73ade4278aea)
+
+20. docker tag <br> ![Screenshot (3)](https://github.com/user-attachments/assets/13731335-fa69-4c5b-910c-5482ad7a82a1)
+
+21. docker save <br> ![Screenshot (13)](https://github.com/user-attachments/assets/dfeca7e0-4e4d-4f6c-80ba-dd5fc1d6f2b8)
+
+22. docker load <br> ![Screenshot (12)](https://github.com/user-attachments/assets/89c979c7-6778-45d5-aa27-26dc198471bc)
+
+23. docker exec <br> ![Screenshot (13)](https://github.com/user-attachments/assets/91cd88af-83b5-46d5-9525-cc87d2e1833e)
+
+24. docker cp <br> ![Screenshot (12)](https://github.com/user-attachments/assets/582e46cb-96c8-496f-998f-85607f703412)
+
+
+
+25.docker system prune <br> ![Screenshot (12)](https://github.com/user-attachments/assets/5bc42913-bce4-4ff1-a7aa-86a3303986e0)
+
 
 
 
@@ -77,8 +97,7 @@ python pth.py <br> ![Screenshot (12)](https://github.com/user-attachments/assets
 ***
 
 #### #4 [Docker] Create the docker image for the above-mentioned flask app and run the same view of the page in a browser
-docker build <br>
-docker push <br> 
+
 
 ***
 

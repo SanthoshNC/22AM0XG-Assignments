@@ -182,12 +182,21 @@
 
 ***
 
-#### #7 Create a GitHub account with a personal mail ID & fork this repo and rename this in the format 22AM0XG-Assignments-Register-Number
-> Add your answer here!
+#### 7 Create a GitHub account with a personal mail ID & fork this repo and rename this in the format 22AM0XG-Assignments-Register-Number
+
+   created
+
+   ![image](https://github.com/user-attachments/assets/df3387fc-67d0-42cb-8e20-f1f7eb7065a3)
+
+   
 
 ***
 
-#### #8 Create a LinkedIn account with personal mail ID
-> Add your answer here!
+#### 8 Create a LinkedIn account with personal mail ID
+
+   created
+
+   ![image](https://github.com/user-attachments/assets/7c05a5c3-d8e5-4c60-88c8-625dc7d5021b)
+
 
 ***

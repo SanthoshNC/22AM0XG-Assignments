@@ -43,7 +43,6 @@
 ![Screenshot 2024-09-28 144118](https://github.com/user-attachments/assets/c8288234-f377-43ff-a682-6c57265060a7)
 ![Screenshot 2024-09-28 144529](https://github.com/user-attachments/assets/d60bbc1d-8851-4008-8777-f1be69a3de1d)
 
-
 ***
 
 #### #2 Install VSCode and Python. Check the version of Python. Document these steps in GitHub Wiki

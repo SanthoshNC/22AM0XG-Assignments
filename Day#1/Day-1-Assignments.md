@@ -65,6 +65,16 @@
 ![image](https://github.com/user-attachments/assets/be5107a5-c38d-4f6c-b423-aba15ee2e995)
 20. docker push akshayanhub/py-hello-world
 ![image](https://github.com/user-attachments/assets/e0a2f515-567a-4efd-8f82-b5d917d26f99)
+21. docker tag santhoshnc/py-hello-world:latest santhoshnc/py-hello-world:v1.0
+![image](https://github.com/user-attachments/assets/ec1217e8-b652-4adc-9663-3e12dd02e598)
+22. docker save -o py-hello-world.tar akshayanhub/py-hello-world:latest
+![image](https://github.com/user-attachments/assets/e270c345-8fb6-467c-b47f-ca981782e638)
+23. docker load -i py-hello-world.tar
+![image](https://github.com/user-attachments/assets/598adf6b-f132-4bc7-9e31-5858205b8a8d)
+24. docker exec -it bold_diffie /bin/bash
+![image](https://github.com/user-attachments/assets/b1fea5cb-2a33-4e2c-937b-009da1ee541d)
+25. docker cp file.txt bold_diffie:/root/
+![image](https://github.com/user-attachments/assets/13fbab37-a9da-495a-8f5a-8ab0856f882c)
 
 ***
 

@@ -139,7 +139,6 @@
 
 
 #### #6 [Docker] Pull one of the participant’s docker images and verify whether the app is running or not
-> Add your answer here!
 
 ![localhost](https://github.com/user-attachments/assets/d487e798-1bc7-41ad-9c64-a1db698d4697)
 

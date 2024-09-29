@@ -28,16 +28,16 @@
 
 email classification app:
 
-Dockerfile:
+Dockerfile:\
 ![image](https://github.com/user-attachments/assets/afbe7723-41bb-4c66-b7aa-b88f6d0b07eb)
 
-building the image using docker build:
+building the image using docker build:\
 ![image](https://github.com/user-attachments/assets/5db15c3a-6ac3-48e7-95c3-c7551dee46c7)
 
-running the image using docker run:
+running the image using docker run:\
 ![image](https://github.com/user-attachments/assets/13cea618-6c79-4c4d-9fa0-3a46ec4bd977)
 
-pushing image to the dockerhub:
+pushing image to the dockerhub:\
 ![image](https://github.com/user-attachments/assets/8c85fe8f-be76-4ff0-bdae-f0834cdca3d4)
 
 
@@ -47,18 +47,18 @@ pushing image to the dockerhub:
 #### #2 Create a simple machine learning application. Execute the program in local and verify the accuracy
 #### Write the Dockerfile & create the docker image named : ml-docker-app. Run the docker image and verify the accuracy. Tag the image in this format : <dockerhub-username>:ml-docker-app. Push the image to DockerHub
 
-Movie review classification app:
+Movie review classification app:\
 
-Dockerfile:
+Dockerfile:\
 ![image](https://github.com/user-attachments/assets/fe5ab2ef-ecc7-47cf-aa36-36673e781099)
 
-building image:
+building image:\
 ![image](https://github.com/user-attachments/assets/f92ac5c2-df8a-4398-b3ec-c22ca8852ec8)
 
-running the image using docker run:
+running the image using docker run:\
 ![image](https://github.com/user-attachments/assets/20fb1657-abd1-4004-9155-01b677e48d81)
 
-pushing image to the dockerhub:
+pushing image to the dockerhub:\
 ![image](https://github.com/user-attachments/assets/6ddbbcba-1255-4603-9832-0d79d0b01c79)
 
 

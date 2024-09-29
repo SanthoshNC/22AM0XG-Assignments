@@ -40,6 +40,11 @@
 > docker save -o hello-world.tar dhayanithi784/hello-world:latest ![image](https://github.com/user-attachments/assets/e7a1c999-76c0-4d36-a317-a7dfa24624c1)
 > ![image](https://github.com/user-attachments/assets/5b5ee2a6-0917-4679-b681-3c441c736e87)
 > docker load -i hello-world.tar ![image](https://github.com/user-attachments/assets/a5131b26-56b4-4437-8474-7b59e9caee01)
+> docker exec ![image](https://github.com/user-attachments/assets/3dab2e5e-af99-4cbf-81cc-10e21806a145)
+>
+> docker cp Sample.txt 4326b9c1b494:/Sample.txt ![image](https://github.com/user-attachments/assets/34112516-58c8-4df4-93ba-9e19fa61e1cf)
+
+
 
 
 

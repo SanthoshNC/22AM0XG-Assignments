@@ -1,0 +1,12 @@
+version: '3'
+services:
+  email:
+    image: "kramkumar27/email"
+    container_name: email_container
+    restart: always
+    
+  movie:
+    image: "kramkumar27/movie"
+    container_name: movie_container
+    restart: always
+    

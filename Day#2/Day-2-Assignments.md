@@ -42,6 +42,9 @@ python.exe .\01_email.py
 
 >![image](https://github.com/user-attachments/assets/dc48a64d-a0cc-462a-b315-4a13a01eba8a)
 
+![image](https://github.com/user-attachments/assets/78f2debf-3dbb-4f3d-ac87-aebda075717b)
+
+
 
 ***
 

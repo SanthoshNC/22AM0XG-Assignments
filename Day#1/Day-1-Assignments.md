@@ -141,7 +141,11 @@
 #### #6 [Docker] Pull one of the participant’s docker images and verify whether the app is running or not
 > Add your answer here!
 
-***
+![flask cmd](https://github.com/user-attachments/assets/d43950bf-0eef-4fc7-a5de-57b3ad11a837)
+
+
+![flask kanitha](https://github.com/user-attachments/assets/5009248f-f0ee-4393-8607-1bb16be65a3d)
+
 
 #### #7 Create a GitHub account with a personal mail ID & fork this repo and rename this in the format 22AM0XG-Assignments-Register-Number
 > Add your answer here!

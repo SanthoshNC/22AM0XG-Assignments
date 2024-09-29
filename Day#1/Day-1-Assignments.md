@@ -24,18 +24,18 @@
 > Pls don't copy from others. Marks will be reduced for both students
 
 #### #1 Execute 25 Docker CLI commands, capture the output screenshots, and document each command's usage on a GitHub Wiki page
-1) checking docker version:
-![image](https://github.com/user-attachments/assets/a48cea68-2224-4bfc-970b-f9f8ba5192ec)
+1) checking docker version:\
+![image](https://github.com/user-attachments/assets/a48cea68-2224-4bfc-970b-f9f8ba5192ec)\
 
-2) docker info:
-![image](https://github.com/user-attachments/assets/95a58bc3-18a1-4ffd-85a3-5eb3529871d8)
-![image](https://github.com/user-attachments/assets/f8ccd85d-6f85-457e-bb44-6dd5508bf22d)
+2) docker info:\
+![image](https://github.com/user-attachments/assets/95a58bc3-18a1-4ffd-85a3-5eb3529871d8)\
+![image](https://github.com/user-attachments/assets/f8ccd85d-6f85-457e-bb44-6dd5508bf22d)\
 
-3) docker system info:
-![image](https://github.com/user-attachments/assets/93785fb9-0bdc-46e4-b5c0-e6df0693f5ce)
+3) docker system info:\
+![image](https://github.com/user-attachments/assets/93785fb9-0bdc-46e4-b5c0-e6df0693f5ce)\
 
-4) docker --help:
-![image](https://github.com/user-attachments/assets/47a806a0-4a4d-4369-8cf0-c718ecde0e00)
+4) docker --help:\
+![image](https://github.com/user-attachments/assets/47a806a0-4a4d-4369-8cf0-c718ecde0e00)\
 
 5) docker compose version:
 ![image](https://github.com/user-attachments/assets/444a3f35-d296-4938-b12c-a90139dc0029)
@@ -178,12 +178,12 @@ Bulding and running the image for the flask hello world application is given bel
 writing compose.yml file for creating container for my flask app and my friend's.
 ![image](https://github.com/user-attachments/assets/10fca55c-6a2e-4e61-b1b8-9d731e2177d6)
 running the docker compose command: 
-![image](https://github.com/user-attachments/assets/e4059026-6a3e-494f-99b2-4d4f02a3aca6)
+![image](https://github.com/user-attachments/assets/e4059026-6a3e-494f-99b2-4d4f02a3aca6)\
 
-\n checking at port 7777:\n
-![image](https://github.com/user-attachments/assets/c2600a1f-18ba-4149-ac7f-4e516dbfa6f7)\n
-checking at port 8888:\n
-![image](https://github.com/user-attachments/assets/ec577055-ba06-4c90-8163-b114c0383db5)
+checking at port 7777:\
+![image](https://github.com/user-attachments/assets/c2600a1f-18ba-4149-ac7f-4e516dbfa6f7)\
+checking at port 8888:\
+![image](https://github.com/user-attachments/assets/ec577055-ba06-4c90-8163-b114c0383db5)\
 
 
 

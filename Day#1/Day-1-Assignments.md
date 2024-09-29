@@ -137,16 +137,20 @@
 ***
 
 #### #6 [Docker] Pull one of the participant’s docker images and verify whether the app is running or not
-> Add your answer here!
+1. Pulled Random participant's Image: 
+<img width="959" alt="image" src="https://github.com/user-attachments/assets/c75138f6-17a6-4c1d-aec2-55a8f49cc927">
+
 
 ***
 
 #### #7 Create a GitHub account with a personal mail ID & fork this repo and rename this in the format 22AM0XG-Assignments-Register-Number
-> Add your answer here!
+1. My GitHub Personal Id:
+   https://github.com/AgniKanitha
 
 ***
 
 #### #8 Create a LinkedIn account with personal mail ID
-> Add your answer here!
+1. My personal LinkedId
+   https://www.linkedin.com/in/kanitha0903/
 
 ***

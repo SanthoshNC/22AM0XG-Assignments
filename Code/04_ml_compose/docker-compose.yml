@@ -1,0 +1,11 @@
+version: '3'
+services:
+  emails:
+    image: "gowtham14prasath/email"  # replace with your image
+    container_name: email_container
+    restart: always
+
+  movies:
+    image: "gowtham14prasath/movies"  # replace with your peer image
+    container_name: movie_container
+    restart: always

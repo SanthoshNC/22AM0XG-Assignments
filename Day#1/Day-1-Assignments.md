@@ -175,7 +175,18 @@ Bulding and running the image for the flask hello world application is given bel
 ***
 
 #### #5 [Docker] Create a docker compose file for the 2 images: nginx/httpd and run the same view of the page in a browser
-> Add your answer here!
+writing compose.yml file for creating container for my flask app and my friend's.
+![image](https://github.com/user-attachments/assets/10fca55c-6a2e-4e61-b1b8-9d731e2177d6)
+running the docker compose command: 
+![image](https://github.com/user-attachments/assets/e4059026-6a3e-494f-99b2-4d4f02a3aca6)
+
+checking at port 7777:
+![image](https://github.com/user-attachments/assets/c2600a1f-18ba-4149-ac7f-4e516dbfa6f7)
+checking at port 8888:
+![image](https://github.com/user-attachments/assets/ec577055-ba06-4c90-8163-b114c0383db5)
+
+
+
 
 ***
 

@@ -37,7 +37,7 @@ building the image using docker build:
 running the image using docker run:
 ![image](https://github.com/user-attachments/assets/13cea618-6c79-4c4d-9fa0-3a46ec4bd977)
 
-pushing it to the dockerhub:
+pushing image to the dockerhub:
 ![image](https://github.com/user-attachments/assets/8c85fe8f-be76-4ff0-bdae-f0834cdca3d4)
 
 
@@ -46,7 +46,23 @@ pushing it to the dockerhub:
 
 #### #2 Create a simple machine learning application. Execute the program in local and verify the accuracy
 #### Write the Dockerfile & create the docker image named : ml-docker-app. Run the docker image and verify the accuracy. Tag the image in this format : <dockerhub-username>:ml-docker-app. Push the image to DockerHub
-> Add your answer here!
+
+Movie review classification app:
+
+Dockerfile:
+![image](https://github.com/user-attachments/assets/fe5ab2ef-ecc7-47cf-aa36-36673e781099)
+
+building image:
+![image](https://github.com/user-attachments/assets/f92ac5c2-df8a-4398-b3ec-c22ca8852ec8)
+
+running the image using docker run:
+![image](https://github.com/user-attachments/assets/20fb1657-abd1-4004-9155-01b677e48d81)
+
+pushing image to the dockerhub:
+![image](https://github.com/user-attachments/assets/6ddbbcba-1255-4603-9832-0d79d0b01c79)
+
+
+
 
 ***
 

@@ -11,8 +11,8 @@
 | <ul><li>- [x] </li></ul> | [Docker] Create the docker image for the above-mentioned flask app and run the same view of the page in a browser |
 | <ul><li>- [x] </li></ul> | [Docker] Create a docker compose file for the 2 images: nginx/httpd and run the same view of the page in a browser |
 | <ul><li>- [x] </li></ul> | [Docker] Pull one of the participant’s docker images and verify whether the app is running or not  |
-| <ul><li>- [ ] </li></ul> | Create a GitHub account with a personal mail ID & fork this repo and rename this in the format 22AM0XG-Assignments-Register-Number  |
-| <ul><li>- [ ] </li></ul> | Create a LinkedIn account with personal mail ID  |
+| <ul><li>- [x] </li></ul> | Create a GitHub account with a personal mail ID & fork this repo and rename this in the format 22AM0XG-Assignments-Register-Number  |
+| <ul><li>- [x] </li></ul> | Create a LinkedIn account with personal mail ID  |
 
 ***
 
@@ -162,6 +162,7 @@ app.py
 #### #5 [Docker] Create a docker compose file for the 2 images: nginx/httpd and run the same view of the page in a browser
 docker compose up -d
 >![image](https://github.com/user-attachments/assets/200d6600-b388-432c-9c5a-4a9d78876e3b)
+
 >![image](https://github.com/user-attachments/assets/201c9148-60e3-42b1-96b4-5a7688803a3b)
 
 
@@ -171,6 +172,7 @@ docker compose up -d
 #### #6 [Docker] Pull one of the participant’s docker images and verify whether the app is running or not
 docker run -idt -p 5000:5000 lohitha08/flask_app
 >![image](https://github.com/user-attachments/assets/c68cce07-c9d8-450e-a486-5e82b1b0fa14)
+
 >![image](https://github.com/user-attachments/assets/a3d85dcd-9347-4f5a-8ab4-e4cdd8fd8586)
 
 
@@ -178,11 +180,11 @@ docker run -idt -p 5000:5000 lohitha08/flask_app
 ***
 
 #### #7 Create a GitHub account with a personal mail ID & fork this repo and rename this in the format 22AM0XG-Assignments-Register-Number
-> Add your answer here!
+> done
 
 ***
 
 #### #8 Create a LinkedIn account with personal mail ID
-> Add your answer here!
+> done
 
 ***

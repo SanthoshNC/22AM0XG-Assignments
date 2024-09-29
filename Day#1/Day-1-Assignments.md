@@ -98,6 +98,7 @@ python pth.py <br> ![Screenshot (12)](https://github.com/user-attachments/assets
 
 #### #4 [Docker] Create the docker image for the above-mentioned flask app and run the same view of the page in a browser
 
+docker build <br> ![Screenshot (15)](https://github.com/user-attachments/assets/080f2f5d-2043-42ac-b061-6e1a7a9071b0)
 
 ***
 

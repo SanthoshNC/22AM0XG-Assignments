@@ -28,6 +28,9 @@ python.exe .\01_email.py
 
 > ![image](https://github.com/user-attachments/assets/d8cff4f7-1b05-4a66-a0b9-b18d574c5b9f)
 
+> ![image](https://github.com/user-attachments/assets/b7e4270e-f9d9-49e6-a7f7-a660cbd17b7e)
+
+
 
 
 
@@ -35,7 +38,10 @@ python.exe .\01_email.py
 
 #### #2 Create a simple machine learning application. Execute the program in local and verify the accuracy
 #### Write the Dockerfile & create the docker image named : ml-docker-app. Run the docker image and verify the accuracy. Tag the image in this format : <dockerhub-username>:ml-docker-app. Push the image to DockerHub
-> Add your answer here!
+> python.exe .\01_movie.py
+
+>![image](https://github.com/user-attachments/assets/dc48a64d-a0cc-462a-b315-4a13a01eba8a)
+
 
 ***
 

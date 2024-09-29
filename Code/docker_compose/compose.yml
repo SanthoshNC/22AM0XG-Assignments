@@ -1,0 +1,10 @@
+services:
+  email:
+    image: "abinaya670/email-classifier:v1"
+    container_name: email_container
+    restart: always
+
+  movie:
+    image: "abinaya670/movie:v1"
+    container_name: movie_container
+    restart: always

@@ -182,7 +182,7 @@ running the docker compose command: \
 
 checking at port 7777:\
 ![image](https://github.com/user-attachments/assets/c2600a1f-18ba-4149-ac7f-4e516dbfa6f7)
-checking at port 8888:\
+\checking at port 8888:\
 ![image](https://github.com/user-attachments/assets/ec577055-ba06-4c90-8163-b114c0383db5)
 
 

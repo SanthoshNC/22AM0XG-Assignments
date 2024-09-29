@@ -22,15 +22,25 @@
 > [!CAUTION]
 > Pls don't copy from others. Marks will be reduced for both students
 
-#### #1 Create a simple machine learning application. Execute the program in local and verify the prediction based on the given score. 
+#### 1 Create a simple machine learning application. Execute the program in local and verify the prediction based on the given score. 
 #### Write the Dockerfile & create the docker image named : ml-docker-app-flask. Run the docker image and verify the prediction based on the given score. Tag the image in this format : <dockerhub-username>: ml-docker-app-flask. Push the image to DockerHub	
-> Add your answer here!
+
+  ![image](https://github.com/user-attachments/assets/e82f190a-d59d-4f40-8a0c-d880b5fee94e)
+
+  ![image](https://github.com/user-attachments/assets/36a0d66c-6b3a-4fb6-9a26-e3abc6918dd7)
+
+
 
 ***
 
-#### #2 Create a simple machine learning application. Execute the program in local and verify the accuracy
+#### 2 Create a simple machine learning application. Execute the program in local and verify the accuracy
 #### Write the Dockerfile & create the docker image named : ml-docker-app. Run the docker image and verify the accuracy. Tag the image in this format : <dockerhub-username>:ml-docker-app. Push the image to DockerHub
-> Add your answer here!
+
+  ![image](https://github.com/user-attachments/assets/7bc1772c-e249-4013-b5ae-329771107565)
+
+  ![image](https://github.com/user-attachments/assets/7d4e7071-17da-45c3-a60b-e9e494250f24)
+  
+
 
 ***
 

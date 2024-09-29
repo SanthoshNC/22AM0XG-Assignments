@@ -152,6 +152,8 @@ img-1
 img-2
 ![image](https://github.com/user-attachments/assets/1791cff8-089c-4f28-ab59-7c0d593dc766)
 
+docker compose stop
+![image](https://github.com/user-attachments/assets/bf7ae640-c47e-403d-af86-92883ab57119)
 
 ***
 
@@ -166,6 +168,8 @@ img-2
 ***
 
 #### #7 Create a GitHub account with a personal mail ID & fork this repo and rename this in the format 22AM0XG-Assignments-Register-Number
+
+![image](https://github.com/user-attachments/assets/031fddb5-9309-429c-b068-5ecdb8d501b2)
 
 
 ***

@@ -63,7 +63,14 @@
     ![image](https://github.com/user-attachments/assets/1f16edc1-83c9-4eed-afb5-ec5a71d0d202)
 19. docker push <br>
     ![image](https://github.com/user-attachments/assets/95356f1a-4156-43ff-a16b-07f6006709e2)
-20. docker pull <br>
+20. docker tag <br>
+    ![image](https://github.com/user-attachments/assets/7df3bf87-30e6-448b-837f-e4ef06024646)
+21. docker save <br>
+    ![image](https://github.com/user-attachments/assets/d967d485-2b8f-4db2-88d8-896ba7bc52d4)
+22. docker load <br>
+    ![image](https://github.com/user-attachments/assets/195bcffe-6694-4fd8-b654-4fdf9b1ec4fa)
+23. 
+
     
 
 

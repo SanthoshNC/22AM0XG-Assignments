@@ -1,0 +1,16 @@
+version: '3'
+services:
+  kanitha:
+    image: "kanitha9/my-flask-app"
+    container_name: kanitha_container
+    restart: always
+    ports:
+      - "7777:5000"
+    
+  kramkumar:
+    image: "kramkumar/flask-helloworld"
+    container_name: kramkumar_container
+    restart: always
+    ports: 
+      - "8888:5000"
+

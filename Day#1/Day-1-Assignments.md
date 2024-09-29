@@ -86,6 +86,25 @@
 20) docker push image-name:
 ![image](https://github.com/user-attachments/assets/d7e6ef88-5325-47ba-b4d0-965ad12eba27)
 
+21) docker tag
+![image](https://github.com/user-attachments/assets/31b84675-6f83-41a2-92e9-22c249b9feb8)
+
+22) docker save (save the image as compressed .tar file)
+![image](https://github.com/user-attachments/assets/61448a28-19a8-4ba7-810a-0a426529b22b)
+
+23) docker load (load the image from .tar file)
+![image](https://github.com/user-attachments/assets/5377792e-a349-47a7-85ad-a0812d8970d4)
+
+24) docker exec (to see what is inside the container)
+![image](https://github.com/user-attachments/assets/128c8e9a-443c-4704-bff3-bb0b94fd9b8d)
+
+25) docker cp (copying file from one place to sany container)
+d![image](https://github.com/user-attachments/assets/db7febb2-c759-4130-84de-795f97e3eacc)
+
+26) docker system prune (removes all the unused containers , images and build cahces)
+![image](https://github.com/user-attachments/assets/eff19e9f-96a7-431a-83a6-ab757d17b377)
+
+
 
 
 

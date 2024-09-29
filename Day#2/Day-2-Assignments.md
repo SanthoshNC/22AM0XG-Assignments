@@ -37,9 +37,10 @@
 
 
 #### #3 [Docker Compose] Create a docker compose file for the 2 images : your flask app and the machine learning app and run the same view the page in browser
-> Add your answer here!
 
-***
+![emails run](https://github.com/user-attachments/assets/92307224-f459-48f1-94ed-6e67904278a3)
+![movies run](https://github.com/user-attachments/assets/ec69b502-482f-4f01-b12f-2406d04d7b10)
+
 
 #### #4 Commit the code to the Github Repo. The repo should be a public one. 
 ![github](https://github.com/user-attachments/assets/45a2b608-ae05-4876-8e74-35c191388435)

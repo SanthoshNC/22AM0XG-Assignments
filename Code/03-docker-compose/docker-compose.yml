@@ -1,0 +1,14 @@
+version: '3'
+services:
+  katihresh:
+    image: "katihresh/test-flask"  
+    container_name: kathiresh_container
+    restart: always
+    ports:
+      - "7777:5000"
+  kanitha:
+    image: "kanitha9/my-flask-app"  
+    container_name: kanitha_container
+    restart: always
+    ports:
+      - "6666:5000"

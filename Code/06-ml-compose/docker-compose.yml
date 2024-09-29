@@ -1,0 +1,12 @@
+version: '3'
+services:
+  katihresh:
+    image: "katihresh/01-email "  
+    container_name: kathiresh_container
+    restart: always
+    
+  kanitha:
+    image: "katihresh/01-movie "  
+    container_name: kanitha_container
+    restart: always
+    

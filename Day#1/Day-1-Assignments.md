@@ -7,7 +7,7 @@
 |----------------|---------------|
 | <ul><li>- [x] </li></ul> | Execute 25 Docker CLI commands, capture the output screenshots, and document each command's usage on a GitHub Wiki page. |
 | <ul><li>- [x] </li></ul> | Install VSCode and Python. Check the version of Python. Document these steps in GitHub Wiki. |
-| <ul><li>- [ ] </li></ul> | [Python] Create a sample flask app and edit the same to showcase your college information(Name, Register_number,etc) |
+| <ul><li>- [x] </li></ul> | [Python] Create a sample flask app and edit the same to showcase your college information(Name, Register_number,etc) |
 | <ul><li>- [ ] </li></ul> | [Docker] Create the docker image for the above-mentioned flask app and run the same view of the page in a browser |
 | <ul><li>- [ ] </li></ul> | [Docker] Create a docker compose file for the 2 images: nginx/httpd and run the same view of the page in a browser |
 | <ul><li>- [ ] </li></ul> | [Docker] Pull one of the participant’s docker images and verify whether the app is running or not  |
@@ -62,7 +62,9 @@
 ***
 
 #### #3 [Python] Create a sample flask app and edit the same to showcase your college information(Name, Register_number,etc)
-> Add your answer here!
+![python-01](https://github.com/user-attachments/assets/ff17688e-3124-49e2-a1cb-082aae192e34)
+![Screenshot 2024-09-29 123827](https://github.com/user-attachments/assets/2fd83417-f567-4286-bb67-39d998b690c0)
+
 
 ***
 
@@ -82,11 +84,12 @@
 ***
 
 #### #7 Create a GitHub account with a personal mail ID & fork this repo and rename this in the format 22AM0XG-Assignments-Register-Number
-> Add your answer here!
+created ✅✅
 
 ***
 
 #### #8 Create a LinkedIn account with personal mail ID
+created ✅✅
 ![Screenshot 2024-09-29 142108](https://github.com/user-attachments/assets/40ce8dc7-eddd-46a6-b07a-f5bbd3cce440)
 
 

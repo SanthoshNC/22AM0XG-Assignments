@@ -115,7 +115,7 @@
 ***
 
 #### #7 Create a GitHub account with a personal mail ID & fork this repo and rename this in the format 22AM0XG-Assignments-Register-Number
-> Add your answer here!
+<img width="959" alt="image" src="https://github.com/user-attachments/assets/f7358aac-16b7-4bd2-a264-8709c91203ba">
 
 ***
 

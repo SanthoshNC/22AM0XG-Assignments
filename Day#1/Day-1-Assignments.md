@@ -111,12 +111,14 @@
 ***
 
 #### #3 [Python] Create a sample flask app and edit the same to showcase your college information(Name, Register_number,etc)
-> 
+>![image](https://github.com/user-attachments/assets/3c062e5d-6318-45cb-a4b9-5d07317c3205)
+>![img](https://github.com/user-attachments/assets/a2cbe054-c23a-4058-b2f4-0748acfa8d56)
 
 ***
 
 #### #4 [Docker] Create the docker image for the above-mentioned flask app and run the same view of the page in a browser
-> 
+> ![Screenshot 2024-09-29 120827](https://github.com/user-attachments/assets/1d3861d8-5195-4891-94f2-8d902a8024b8)
+![Screenshot 2024-09-29 122930](https://github.com/user-attachments/assets/fa863127-4a17-4952-90ad-8426db7cb854)
 
 ***
 
@@ -126,12 +128,12 @@
 ***
 
 #### #6 [Docker] Pull one of the participant’s docker images and verify whether the app is running or not
-> Add your answer here!
+> ![Screenshot 2024-09-29 142936](https://github.com/user-attachments/assets/1cb6cf20-49e4-4ed4-9575-90a8c1d8ab0c)
 
 ***
 
 #### #7 Create a GitHub account with a personal mail ID & fork this repo and rename this in the format 22AM0XG-Assignments-Register-Number
-> Add your answer here!
+> 
 
 ***
 

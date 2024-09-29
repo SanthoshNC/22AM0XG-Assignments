@@ -42,21 +42,24 @@
 ***
 
 #### #3 [Docker Compose] Create a docker compose file for the 2 images : your flask app and the machine learning app and run the same view the page in browser
-> Add your answer here!
+> ![Screenshot 2024-09-29 234706](https://github.com/user-attachments/assets/90a3b60b-57ad-4899-9628-ac5d75327802)
+> ![Screenshot 2024-09-29 234719](https://github.com/user-attachments/assets/1e28ec8b-a08f-4d9d-8223-bdf6ca592bfa)
+> ![Screenshot 2024-09-29 235454](https://github.com/user-attachments/assets/4d53aed1-8e20-4743-8b97-73a9a3da54a8)
+> ![Screenshot 2024-09-30 000129](https://github.com/user-attachments/assets/7bb35497-8cf2-4fa0-9d76-25d2cc327c13)
 
 ***
 
 #### #4 Commit the code to the Github Repo. The repo should be a public one. 
-> Add your answer here!
+> DONE
 
 ***
 
 #### #5 Document all the learnings with screenshots in the GitHub Wiki / in .md file
-> Add your answer here!
+> DONE
 
 ***
 
 #### #6 Create a post on Linkedin about your learning journey in this 1 credit course
-> Add your answer here!
+> DONE
 
 ***

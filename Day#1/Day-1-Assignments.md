@@ -47,7 +47,7 @@
 ![image](https://github.com/user-attachments/assets/24e079de-8a7d-4442-9ad1-283db7096836)
 11. docker run -itd nginx <br>
 ![image](https://github.com/user-attachments/assets/de89d1f9-d3e2-49e8-a709-8e9b7f218f49)
-12. docker ps
+12. docker ps <br>
 ![image](https://github.com/user-attachments/assets/ec7a0f9d-56d9-418f-9e26-364dabc226a2)
 13. docker stop 0ee87afa8816 <br>
 ![image](https://github.com/user-attachments/assets/19f63ac6-81e0-4ddf-8701-411bf3bbb990)

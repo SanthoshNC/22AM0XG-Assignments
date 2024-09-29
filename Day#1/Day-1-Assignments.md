@@ -26,6 +26,7 @@
 
 #### #1 Execute 25 Docker CLI commands, capture the output screenshots, and document each command's usage on a GitHub Wiki page
 1.docker version
+
 ![image 1](https://github.com/user-attachments/assets/aa4d183f-3c1f-481b-b738-df4d8cc8f15b)
 2.docker info
 ![image 2](https://github.com/user-attachments/assets/f4bd1227-71fc-4a2d-917d-acc6e91e600e)

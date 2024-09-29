@@ -46,6 +46,7 @@
 > docker system prune ![image](https://github.com/user-attachments/assets/d65e2d2a-6a3d-4aa5-b7b0-17af6c43a085)
 
 
+![image](https://github.com/user-attachments/assets/4571c777-7117-4856-8e96-c63bb208d658)
 
 
 
@@ -78,7 +79,8 @@
 ***
 
 #### #4 [Docker] Create the docker image for the above-mentioned flask app and run the same view of the page in a browser
-> Add your answer here!
+> ![Screenshot 2024-09-28 141621](https://github.com/user-attachments/assets/bf008114-e531-419c-b9ae-32a9991bdb01)
+
 
 ***
 
@@ -89,6 +91,8 @@
 
 #### #6 [Docker] Pull one of the participant’s docker images and verify whether the app is running or not
 > ![image](https://github.com/user-attachments/assets/e0e88ef8-408a-4acd-91b7-3c4c5ad40f9d)
+> ![image](https://github.com/user-attachments/assets/48d88426-4d20-47f6-9846-7eaf5de7ac28)
+
 
 
 ***

@@ -1,0 +1,13 @@
+version: '3'
+services:
+  gokul:
+    image: "gokul764/flask-app"
+    container_name: gokul_container
+    ports:
+      - "5000:5000"
+  raja:
+    image: "raja05/flask-app"
+    container_name: raja_container
+    ports:
+      - "7777:5000"
+  

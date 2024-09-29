@@ -128,7 +128,10 @@
 ***
 
 #### #6 [Docker] Pull one of the participant’s docker images and verify whether the app is running or not
-> Add your answer here!
+![5_1](https://github.com/user-attachments/assets/c725b58c-b68d-4ca8-9005-5dd79f042557)
+![5_2](https://github.com/user-attachments/assets/d11c38b6-8ec2-4d8e-847e-82942b776a79)
+
+
 
 ***
 

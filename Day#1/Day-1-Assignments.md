@@ -94,10 +94,10 @@
 
 #### #4 [Docker] Create the docker image for the above-mentioned flask app and run the same view of the page in a browser
 1. docker images
-  ![image](https://github.com/user-attachments/assets/30ad96bc-b1f2-4cfb-b896-8526ff1e12a4) <br>
-![image](https://github.com/user-attachments/assets/3a118200-0120-43c4-ada3-dea7edb2790e)
-
-
+![image](https://github.com/user-attachments/assets/30ad96bc-b1f2-4cfb-b896-8526ff1e12a4) <br>
+2. docker run -idt -p 5000:5000 deepak3105/flask-hello-world
+![image](https://github.com/user-attachments/assets/3a118200-0120-43c4-ada3-dea7edb2790e) <br>
+![image](https://github.com/user-attachments/assets/3d9cf673-f454-42a8-97c0-5381662f4ec8)
 ***
 
 #### #5 [Docker] Create a docker compose file for the 2 images: nginx/httpd and run the same view of the page in a browser

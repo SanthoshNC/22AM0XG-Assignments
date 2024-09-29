@@ -8,7 +8,7 @@
 | <ul><li>- [x] </li></ul> | Create a simple machine-learning application & verify the prediction based on the given score |
 | <ul><li>- [x] </li></ul> | Create a simple machine-learning application & verify the accuracy |
 | <ul><li>- [x] </li></ul> | [Docker Compose] Create a docker-compose file for the 2 images: your flask app and the machine learning app and run the same view the page in browser |
-| <ul><li>- [ ] </li></ul> | Commit all the code to GitHub Repo |
+| <ul><li>- [x] </li></ul> | Commit all the code to GitHub Repo |
 | <ul><li>- [ ] </li></ul> | Document all the learnings with screenshots in the GitHub Wiki / in .md file |
 | <ul><li>- [ ] </li></ul> | Create a post on Linkedin  |
 
@@ -44,7 +44,7 @@
 ***
 
 #### #4 Commit the code to the Github Repo. The repo should be a public one. 
-> Add your answer here!
+![image](https://github.com/user-attachments/assets/0e9e9422-c209-46c8-bfea-5832c939f282)
 
 ***
 

@@ -109,6 +109,29 @@ docker run abinaya670/python-hello-world
 
 ![image](https://github.com/user-attachments/assets/7db1f143-9e68-41c6-b7a8-18224c488724)
 
+docker tag lohitha08/hello_world:latest lohitha08/hello_world:v1.0
+
+![image](https://github.com/user-attachments/assets/f60df627-9eed-4101-9a8f-b39e5def221c)
+
+docker save -o hello_world.tar lohitha08/hello_world:latest
+
+![image](https://github.com/user-attachments/assets/4e160147-9089-48ee-a2e6-06958c0861df)
+
+docker load -i hello_world.tar
+
+![image](https://github.com/user-attachments/assets/1d2b1e87-97eb-478f-8d82-d59659bb3bdc)
+
+docker exec -it 2e18632eec9a /bin/bash
+
+![image](https://github.com/user-attachments/assets/a4c9fff8-539c-419f-9356-bb7c5ec3b395)
+
+cp sample.txt.txt 2e18632eec9a:/sample.txt.txt
+
+![image](https://github.com/user-attachments/assets/5986e3b8-7f8b-4388-8251-8b287283ccc4)
+
+docker system prune
+
+![image](https://github.com/user-attachments/assets/bfc74a6b-b5bc-401e-bb61-4a77384d6cc6)
 
 
 #### #2 Install VSCode and Python. Check the version of Python. Document these steps in GitHub Wiki
@@ -127,10 +150,6 @@ python --version
 #### #4 [Docker] Create the docker image for the above-mentioned flask app and run the same view of the page in a browser
 
 ![image](https://github.com/user-attachments/assets/ca61c20b-58ca-44b8-9937-73341651487c)
-
-
-
-
 
 
 #### #5 [Docker] Create a docker compose file for the 2 images: nginx/httpd and run the same view of the page in a browser

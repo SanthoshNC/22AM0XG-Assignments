@@ -207,7 +207,7 @@ My friend's hello world application:\
 ***
 
 #### #7 Create a GitHub account with a personal mail ID & fork this repo and rename this in the format 22AM0XG-Assignments-Register-Number
-github account: https://github.com/ramkumar-bitsathy
+github account: https://github.com/ramkumar-bitsathy/ \
 ![image](https://github.com/user-attachments/assets/ced70177-e720-49c6-95ce-37abaefac24d)
 
 ![image](https://github.com/user-attachments/assets/33a90ac9-f92c-42ae-a3dd-a288a6982fd9)

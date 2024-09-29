@@ -87,6 +87,7 @@
 ***
 
 #### #8 Create a LinkedIn account with personal mail ID
-> Add your answer here!
+![Screenshot 2024-09-29 142108](https://github.com/user-attachments/assets/40ce8dc7-eddd-46a6-b07a-f5bbd3cce440)
+
 
 ***

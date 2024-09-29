@@ -43,9 +43,8 @@ docker search nginx
 > ![image](https://github.com/user-attachments/assets/8c816c6c-b438-4c3f-918b-7988705e23f1)
 docker images
 docker pull nginx
-docker pull nginx
 > ![image](https://github.com/user-attachments/assets/9ed6017b-cac2-4e30-a0bd-923e81eff5e6)
-docker reun -idt nginx
+docker run -idt nginx
 docker ps
 > ![image](https://github.com/user-attachments/assets/534c0c1f-98b9-4b8e-9c9b-1b0498c40e8e)
 docker stop fdc3b947c73c
@@ -64,6 +63,17 @@ docker run lohitha08/hello_world
 > ![image](https://github.com/user-attachments/assets/fc01e4a8-214a-4c17-a26c-e743074bd9b0)
 docker abinaya670/python-flask-app:latest abinaya670/python-flask-app:v1.0
 > ![image](https://github.com/user-attachments/assets/2dbea305-1435-4c26-aca2-caccca25e02d)
+docker save -o python-hello-world.tar abinaya670/python-hello-world
+> ![image](https://github.com/user-attachments/assets/af4e4ff4-6ac5-47d8-bdb8-4fd0fdd6a9d5)
+> docker load -i python-hello-world.tar
+![image](https://github.com/user-attachments/assets/127d3523-e5a7-4440-ac72-f29faf9b803f)
+docker exec -it a69ca91e4972 /bin/bash
+exit
+> ![image](https://github.com/user-attachments/assets/aff6378b-e8ac-4771-af47-c2e4b16d2b08)
+docker cp sample.txt.txt a69ca91e4972:/sample.txt.txt
+> ![image](https://github.com/user-attachments/assets/763925c2-057a-4b84-a23a-6e0dd0b475d5)
+docker system prune
+> ![image](https://github.com/user-attachments/assets/65cc22ef-a9c2-4209-8af9-4d69da1764a3)
 
 
 

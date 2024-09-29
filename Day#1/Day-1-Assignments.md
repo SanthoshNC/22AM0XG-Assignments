@@ -62,25 +62,25 @@
 12) docker ps (list the containers):\
 ![image](https://github.com/user-attachments/assets/d0559d32-b2bf-4760-b9ff-17a2c155f5e9)
 
-13) docker stop <container-id> :\
+13) docker stop "container-id" :\
 ![image](https://github.com/user-attachments/assets/fc48a153-bb97-40a3-8a63-93012610a2d8)
 
-14) docker start <container-id> :\
+14) docker start "container-id" :\
 ![image](https://github.com/user-attachments/assets/a40dba03-1c74-41ff-a147-f4c77f7a377a)
 
-15) docker restart <container-id> :\
+15) docker restart "container-id" :\
 ![image](https://github.com/user-attachments/assets/b9031304-79de-4d3c-8db5-c83e9609bc6e)
 
-16) docker logs <container-id> :\
+16) docker logs "container-id" :\
 ![image](https://github.com/user-attachments/assets/4ad4081d-55c2-43bf-9126-819914c19f0b)
 
-17) docker rm <container-id> :\
+17) docker rm "container-id" :\
 ![image](https://github.com/user-attachments/assets/1fb1d8f0-77ef-4349-ac70-a861f7dc7201)
 
 18) docker rmi nginx:\
 ![image](https://github.com/user-attachments/assets/922f3baf-21dd-41a8-ac11-9d8ed794e182)
 
-19) docker build -t <username>/<imagename> .  :\
+19) docker build -t "username"/"imagename" .  :\
 ![image](https://github.com/user-attachments/assets/4bf91963-2434-45c0-ae54-de89675668fd)
 
 20) docker push image-name:\
@@ -181,8 +181,8 @@ running the docker compose command: \
 ![image](https://github.com/user-attachments/assets/e4059026-6a3e-494f-99b2-4d4f02a3aca6)
 
 checking at port 7777:\
-![image](https://github.com/user-attachments/assets/c2600a1f-18ba-4149-ac7f-4e516dbfa6f7)
-\checking at port 8888:\
+![image](https://github.com/user-attachments/assets/c2600a1f-18ba-4149-ac7f-4e516dbfa6f7) .\
+checking at port 8888:\
 ![image](https://github.com/user-attachments/assets/ec577055-ba06-4c90-8163-b114c0383db5)
 
 

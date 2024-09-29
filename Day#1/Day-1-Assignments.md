@@ -83,6 +83,16 @@
 <img width="453" alt="image" src="https://github.com/user-attachments/assets/fc9e2919-0fb9-45c6-a30d-819fd5277c8e">
 <img width="733" alt="image" src="https://github.com/user-attachments/assets/a8dcedfd-2d66-4129-b747-791a355c9656">
 <img width="672" alt="image" src="https://github.com/user-attachments/assets/a3305a74-066d-487e-ba77-ce4696020345">
+<img width="687" alt="image" src="https://github.com/user-attachments/assets/b0bdbe67-3bf2-41c9-b1e7-64ebc27a6dcc">
+<img width="934" alt="image" src="https://github.com/user-attachments/assets/c27c6bf5-1c8c-4631-9ff2-98a702f02faf">
+<img width="647" alt="image" src="https://github.com/user-attachments/assets/a1e765e7-b180-4637-8546-b85ac5b3755a">
+<img width="364" alt="image" src="https://github.com/user-attachments/assets/645d5743-e403-41e8-b967-48239e66210f">
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/b908a8c8-49bc-4cda-9516-446843222aeb">
+<img width="590" alt="image" src="https://github.com/user-attachments/assets/3c6d57ca-0d70-425d-9ef5-3f9439522bee">
+<img width="544" alt="image" src="https://github.com/user-attachments/assets/fac306f0-4b86-4b40-a800-20455807cc7c">
+<img width="797" alt="image" src="https://github.com/user-attachments/assets/8ba1bd7e-c79d-4863-b6bd-c88a57d6bddc">
+<img width="761" alt="image" src="https://github.com/user-attachments/assets/f6059a85-94ac-45db-adf1-8a2a138dbd76">
+
 ***
 
 #### #5 [Docker] Create a docker compose file for the 2 images: nginx/httpd and run the same view of the page in a browser

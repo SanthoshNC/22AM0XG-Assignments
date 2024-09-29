@@ -85,8 +85,23 @@
 20 docker images
 ![image](https://github.com/user-attachments/assets/b6916171-cafe-44e5-8f78-5156f756f7b4)
 
+21 docker tag
+![image](https://github.com/user-attachments/assets/18b6abda-528a-4ca1-b313-2bb7a4904a9d)
 
+22 docker save
+![image](https://github.com/user-attachments/assets/1ce97fcc-eea3-436a-b94d-4da692351a25)
 
+23 docker load
+![image](https://github.com/user-attachments/assets/66cc76d8-80bf-4ac9-9a02-783cfcb6fc7a)
+
+24 docker exec
+![image](https://github.com/user-attachments/assets/b1f1dcb8-2e68-4670-88de-058110db5de9)
+
+25 docker cp
+![image](https://github.com/user-attachments/assets/f78c3bda-29e8-480e-808b-cea92dbf4595)
+
+26 docker system prune
+![image](https://github.com/user-attachments/assets/745e8c64-8a67-48b5-bd0f-5bc63ffef652)
 
 ***
 

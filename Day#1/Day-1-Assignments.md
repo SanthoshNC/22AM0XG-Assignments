@@ -113,7 +113,11 @@ app.py
 ***
 
 #### #6 [Docker] Pull one of the participant’s docker images and verify whether the app is running or not
-> Add your answer here!
+docker run -idt -p 5000:5000 lohitha08/flask_app
+>![image](https://github.com/user-attachments/assets/c68cce07-c9d8-450e-a486-5e82b1b0fa14)
+>![image](https://github.com/user-attachments/assets/a3d85dcd-9347-4f5a-8ab4-e4cdd8fd8586)
+
+
 
 ***
 

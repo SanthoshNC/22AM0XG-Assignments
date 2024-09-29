@@ -1,7 +1,7 @@
 FROM python:3.8-slim-buster
 
-COPY movie_review_classification.py /
+COPY 01_movie.py /
 
 RUN pip install --no-cache-dir scikit-learn
 
-CMD [ "python", "./movie_review_classification.py" ]
+CMD [ "python", "./01_movie.py" ]

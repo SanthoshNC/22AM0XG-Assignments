@@ -43,6 +43,8 @@
 > docker exec ![image](https://github.com/user-attachments/assets/3dab2e5e-af99-4cbf-81cc-10e21806a145)
 >
 > docker cp Sample.txt 4326b9c1b494:/Sample.txt ![image](https://github.com/user-attachments/assets/34112516-58c8-4df4-93ba-9e19fa61e1cf)
+> docker system prune ![image](https://github.com/user-attachments/assets/d65e2d2a-6a3d-4aa5-b7b0-17af6c43a085)
+
 
 
 

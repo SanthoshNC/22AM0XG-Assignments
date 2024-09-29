@@ -69,22 +69,31 @@
 ***
 
 #### #3 [Python] Create a sample flask app and edit the same to showcase your college information(Name, Register_number,etc)
-> Add your answer here!
+python app.py <br> ![Screenshot (14)](https://github.com/user-attachments/assets/ee5a40be-442a-4815-930a-ce9cc77b14c6)
+
+python pth.py <br> ![Screenshot (12)](https://github.com/user-attachments/assets/5b456b26-6799-4175-af0f-520f020e3c7a)
+
 
 ***
 
 #### #4 [Docker] Create the docker image for the above-mentioned flask app and run the same view of the page in a browser
-> Add your answer here!
+docker build <br>
+docker push <br> 
 
 ***
 
 #### #5 [Docker] Create a docker compose file for the 2 images: nginx/httpd and run the same view of the page in a browser
-> Add your answer here!
+docker compose <br> ![Screenshot (14)](https://github.com/user-attachments/assets/c455e1df-6567-4aaf-b633-ea86f3e09064)
+![Screenshot (14)](https://github.com/user-attachments/assets/a13f8298-5d47-45a0-a781-298f32240dc1)
+
+
 
 ***
 
 #### #6 [Docker] Pull one of the participant’s docker images and verify whether the app is running or not
-> Add your answer here!
+docker pull <br> ![Screenshot (13)](https://github.com/user-attachments/assets/8c66f22b-0e19-49ea-a952-676f8d3fd95d)
+
+
 
 ***
 

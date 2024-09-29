@@ -82,18 +82,26 @@
 19) docker push pawang08/hello-world
 ![image](https://github.com/user-attachments/assets/86e501d1-99ac-4f9f-87fc-34954f59ec2c)
 
-20) 
+20) docker tag pawang08/app:latest pawang08/app:v1.0
+![image](https://github.com/user-attachments/assets/614893fd-e890-4da4-84b1-4507e524446f)
 
+21) docker save -o app.tar pawang08/app:latest
+![image](https://github.com/user-attachments/assets/07c9ecbf-79e0-4cdf-8605-d8e4891bbcd5)
 
+22)docker load -i app.tar
+![image](https://github.com/user-attachments/assets/8d2725d4-8c5e-4524-851f-061f7a91d80c)
 
+23) docker exec -it (img id) /bin/bash
+![image](https://github.com/user-attachments/assets/c5f6a11d-16d1-4196-b4c4-38e1e6061326)
 
+24)  docker cp sample.txt 0fba889b0f4a:/sample.txt
+![image](https://github.com/user-attachments/assets/c807390c-f674-41e3-98e0-5ed62fee20d9)
 
+25) docker system prune
+![image](https://github.com/user-attachments/assets/e0426e0b-303d-4026-a95e-ce5c1660632e)
 
-
-
-
-
-
+26) docker rmi (img name)
+![image](https://github.com/user-attachments/assets/d84db75c-42f9-4cd7-8252-4a3db1d1290d)
 
 
 ***
@@ -105,8 +113,6 @@ sudo python3 --version
 
 code --version
 ![image](https://github.com/user-attachments/assets/e9cc99fc-4f42-4f15-b46d-ddc79ba0c904)
-
-
 
 ***
 
@@ -127,23 +133,34 @@ flask app.py
 ***
 
 #### #4 [Docker] Create the docker image for the above-mentioned flask app and run the same view of the page in a browser
+
 my flask app
+docker run pawang08/app
 ![image](https://github.com/user-attachments/assets/58fefe28-ef14-424f-a2dc-a1466b42ab51)
-
-friend's flask app
-![image](https://github.com/user-attachments/assets/6cd55c9c-7cca-42e5-b014-190fd10ef050)
-
-
 
 ***
 
 #### #5 [Docker] Create a docker compose file for the 2 images: nginx/httpd and run the same view of the page in a browser
-> Add your answer here!
+docker_compose# docker compose up -d
+running status:
+![image](https://github.com/user-attachments/assets/b54e47ed-aa8d-48c5-986f-df36ccb8cffa)
+
+img-1
+![image](https://github.com/user-attachments/assets/53a02e8e-0203-44b6-b297-def8455cb10e)
+
+img-2
+![image](https://github.com/user-attachments/assets/1791cff8-089c-4f28-ab59-7c0d593dc766)
+
 
 ***
 
 #### #6 [Docker] Pull one of the participant’s docker images and verify whether the app is running or not
-> Add your answer here!
+
+1)docker pull kramkumar27/flask-helloworld
+![image](https://github.com/user-attachments/assets/ff6fb36c-174b-430c-b25d-f3d788c41930)
+
+2)docker run -idt -p 5000:5000 kramkumar27/flask-helloworld 
+![image](https://github.com/user-attachments/assets/6cd55c9c-7cca-42e5-b014-190fd10ef050)
 
 ***
 

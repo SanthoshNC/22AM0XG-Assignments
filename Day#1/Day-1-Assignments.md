@@ -133,11 +133,10 @@
 ***
 
 #### #7 Create a GitHub account with a personal mail ID & fork this repo and rename this in the format 22AM0XG-Assignments-Register-Number
-> 
+> ![Screenshot 2024-09-29 143245](https://github.com/user-attachments/assets/1809ea79-5171-433f-9270-ac0f1820d8ab)
 
 ***
 
 #### #8 Create a LinkedIn account with personal mail ID
-> Add your answer here!
-
+>  www.linkedin.com/in/imran-j-3559b0267
 ***

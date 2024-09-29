@@ -57,7 +57,7 @@
 ![image](https://github.com/user-attachments/assets/d53975fc-075b-4169-9841-96e855807a31)
 16. docker logs 0ee87afa8816 <br>
 ![image](https://github.com/user-attachments/assets/5b0d30a7-3c1c-4bba-a48a-ce40162d4fde)
-17. docker rm 0ee87afa8816
+17. docker rm 0ee87afa8816 <br>
 ![image](https://github.com/user-attachments/assets/95d15f10-6407-415f-b24b-bbba7eee119d)
 18. docker build -t akshayanhub/py-hello-world .
 ![image](https://github.com/user-attachments/assets/f8af8199-f5c3-462a-a24a-6fa20b1d79fd)
@@ -67,14 +67,16 @@
 ![image](https://github.com/user-attachments/assets/e0a2f515-567a-4efd-8f82-b5d917d26f99)
 21. docker tag santhoshnc/py-hello-world:latest santhoshnc/py-hello-world:v1.0
 ![image](https://github.com/user-attachments/assets/ec1217e8-b652-4adc-9663-3e12dd02e598)
-22. docker save -o py-hello-world.tar akshayanhub/py-hello-world:latest
+22. docker save -o py-hello-world.tar akshayanhub/py-hello-world:latest <br>
 ![image](https://github.com/user-attachments/assets/e270c345-8fb6-467c-b47f-ca981782e638)
-23. docker load -i py-hello-world.tar
+23. docker load -i py-hello-world.tar <br>
 ![image](https://github.com/user-attachments/assets/598adf6b-f132-4bc7-9e31-5858205b8a8d)
-24. docker exec -it bold_diffie /bin/bash
+24. docker exec -it bold_diffie /bin/bash <br>
 ![image](https://github.com/user-attachments/assets/b1fea5cb-2a33-4e2c-937b-009da1ee541d)
-25. docker cp file.txt bold_diffie:/root/
+25. docker cp file.txt bold_diffie:/root/ <br>
 ![image](https://github.com/user-attachments/assets/13fbab37-a9da-495a-8f5a-8ab0856f882c)
+26. docker system prune <br>
+![image](https://github.com/user-attachments/assets/314fa963-7855-4eb2-bfde-e707d675bf74)
 
 ***
 

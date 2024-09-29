@@ -1,0 +1,16 @@
+version: '3'
+services:
+  my:
+    image: "pawang08/app"
+    container_name: my_container
+    restart: always
+    ports:
+      - "4444:5000"
+  ramkumar:
+    image: "kramkumar27/flask-helloworld"
+    container_name: ram_container
+    restart: always
+    ports:
+      - "9999:5000"
+
+

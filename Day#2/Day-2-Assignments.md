@@ -5,9 +5,9 @@
 
 | Status         | Questions     | 
 |----------------|---------------|
-| <ul><li>- [ ] </li></ul> | Create a simple machine-learning application & verify the prediction based on the given score |
-| <ul><li>- [ ] </li></ul> | Create a simple machine-learning application & verify the accuracy |
-| <ul><li>- [ ] </li></ul> | [Docker Compose] Create a docker-compose file for the 2 images: your flask app and the machine learning app and run the same view the page in browser |
+| <ul><li>- [x] </li></ul> | Create a simple machine-learning application & verify the prediction based on the given score |
+| <ul><li>- [x] </li></ul> | Create a simple machine-learning application & verify the accuracy |
+| <ul><li>- [x] </li></ul> | [Docker Compose] Create a docker-compose file for the 2 images: your flask app and the machine learning app and run the same view the page in browser |
 | <ul><li>- [ ] </li></ul> | Commit all the code to GitHub Repo |
 | <ul><li>- [ ] </li></ul> | Document all the learnings with screenshots in the GitHub Wiki / in .md file |
 | <ul><li>- [ ] </li></ul> | Create a post on Linkedin  |
@@ -39,7 +39,7 @@
 ***
 
 #### #3 [Docker Compose] Create a docker compose file for the 2 images : your flask app and the machine learning app and run the same view the page in browser
-> Add your answer here!
+![image](https://github.com/user-attachments/assets/cd62f31c-91fe-4a02-b783-0f976ffcda5d)
 
 ***
 

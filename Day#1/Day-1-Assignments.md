@@ -171,11 +171,7 @@ docker run -idt -p 5000:5000 kanitha9/my-flask-app
 ![image](https://github.com/user-attachments/assets/0c953e0c-cb50-4dc6-bf83-d2b6ffb77abe)
 
 #### #7 Create a GitHub account with a personal mail ID & fork this repo and rename this in the format 22AM0XG-Assignments-Register-Number
-> Add your answer here!
 
-***
 
 #### #8 Create a LinkedIn account with personal mail ID
-> Add your answer here!
 
-***

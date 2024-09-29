@@ -87,7 +87,8 @@
 ***
 
 #### #5 [Docker] Create a docker compose file for the 2 images: nginx/httpd and run the same view of the page in a browser
-> Add your answer here!
+> docker compose up -d ![image](https://github.com/user-attachments/assets/d2e4ace1-26ff-4a93-9f03-f87af0bd3618)
+
 
 ***
 

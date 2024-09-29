@@ -1,0 +1,14 @@
+version: '3'
+services:
+  gowtham:
+    image: "gowtham14prasath/flask-hello-world"  # replace with your image
+    container_name: gowtham_container
+    restart: always
+    ports:
+      - "5001:5000"
+  ashwin:
+    image: "ashwin250304/flask-app-py"  # replace with your peer image
+    container_name: ashwin_container
+    restart: always
+    ports:
+      - "5002:5000"

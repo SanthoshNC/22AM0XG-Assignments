@@ -58,6 +58,18 @@
    
 <img width="519" alt="image" src="https://github.com/user-attachments/assets/449e2990-5f78-44e5-aa02-e3c63b6c6df8">
 
+<img width="734" alt="image" src="https://github.com/user-attachments/assets/6f377224-f9dd-45d3-8efa-95c672f47483">
+<img width="526" alt="image" src="https://github.com/user-attachments/assets/a5547943-f2b3-4d98-b3b3-f4fd3c112529">
+<img width="667" alt="image" src="https://github.com/user-attachments/assets/43c397aa-d292-4b65-918a-09462a693bb0">
+<img width="542" alt="image" src="https://github.com/user-attachments/assets/59aecc88-0a46-4768-a175-9c482b225ef0">
+<img width="788" alt="image" src="https://github.com/user-attachments/assets/6a54d7ad-6d0d-4b90-beed-74e3130d6cef">
+<img width="857" alt="image" src="https://github.com/user-attachments/assets/3bceeb7d-6f41-4cdf-b7c5-91a82db7301d">
+<img width="613" alt="image" src="https://github.com/user-attachments/assets/f31bf806-d88a-405d-ac44-7bdea64e9525">
+<img width="833" alt="image" src="https://github.com/user-attachments/assets/74c40dce-ead1-4539-b6b1-3fc105328000">
+<img width="542" alt="image" src="https://github.com/user-attachments/assets/072ca023-48a3-48b4-ab17-011ddc27f728">
+<img width="453" alt="image" src="https://github.com/user-attachments/assets/fc9e2919-0fb9-45c6-a30d-819fd5277c8e">
+<img width="733" alt="image" src="https://github.com/user-attachments/assets/a8dcedfd-2d66-4129-b747-791a355c9656">
+
 ***
 
 #### #2 Install VSCode and Python. Check the version of Python. Document these steps in GitHub Wiki
@@ -71,16 +83,7 @@
 ***
 
 #### #4 [Docker] Create the docker image for the above-mentioned flask app and run the same view of the page in a browser
-<img width="734" alt="image" src="https://github.com/user-attachments/assets/6f377224-f9dd-45d3-8efa-95c672f47483">
-<img width="526" alt="image" src="https://github.com/user-attachments/assets/a5547943-f2b3-4d98-b3b3-f4fd3c112529">
-<img width="667" alt="image" src="https://github.com/user-attachments/assets/43c397aa-d292-4b65-918a-09462a693bb0">
-<img width="542" alt="image" src="https://github.com/user-attachments/assets/59aecc88-0a46-4768-a175-9c482b225ef0">
-<img width="788" alt="image" src="https://github.com/user-attachments/assets/6a54d7ad-6d0d-4b90-beed-74e3130d6cef">
-<img width="857" alt="image" src="https://github.com/user-attachments/assets/3bceeb7d-6f41-4cdf-b7c5-91a82db7301d">
-<img width="613" alt="image" src="https://github.com/user-attachments/assets/f31bf806-d88a-405d-ac44-7bdea64e9525">
-<img width="833" alt="image" src="https://github.com/user-attachments/assets/74c40dce-ead1-4539-b6b1-3fc105328000">
-<img width="542" alt="image" src="https://github.com/user-attachments/assets/072ca023-48a3-48b4-ab17-011ddc27f728">
-<img width="453" alt="image" src="https://github.com/user-attachments/assets/fc9e2919-0fb9-45c6-a30d-819fd5277c8e">
+
 <img width="733" alt="image" src="https://github.com/user-attachments/assets/a8dcedfd-2d66-4129-b747-791a355c9656">
 <img width="672" alt="image" src="https://github.com/user-attachments/assets/a3305a74-066d-487e-ba77-ce4696020345">
 <img width="687" alt="image" src="https://github.com/user-attachments/assets/b0bdbe67-3bf2-41c9-b1e7-64ebc27a6dcc">

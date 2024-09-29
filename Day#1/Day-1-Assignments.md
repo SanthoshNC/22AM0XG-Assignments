@@ -69,6 +69,7 @@
 <img width="542" alt="image" src="https://github.com/user-attachments/assets/072ca023-48a3-48b4-ab17-011ddc27f728">
 <img width="453" alt="image" src="https://github.com/user-attachments/assets/fc9e2919-0fb9-45c6-a30d-819fd5277c8e">
 <img width="733" alt="image" src="https://github.com/user-attachments/assets/a8dcedfd-2d66-4129-b747-791a355c9656">
+<img width="733" alt="image" src="https://github.com/user-attachments/assets/a8dcedfd-2d66-4129-b747-791a355c9656">
 
 ***
 
@@ -84,7 +85,6 @@
 
 #### #4 [Docker] Create the docker image for the above-mentioned flask app and run the same view of the page in a browser
 
-<img width="733" alt="image" src="https://github.com/user-attachments/assets/a8dcedfd-2d66-4129-b747-791a355c9656">
 <img width="672" alt="image" src="https://github.com/user-attachments/assets/a3305a74-066d-487e-ba77-ce4696020345">
 <img width="687" alt="image" src="https://github.com/user-attachments/assets/b0bdbe67-3bf2-41c9-b1e7-64ebc27a6dcc">
 <img width="934" alt="image" src="https://github.com/user-attachments/assets/c27c6bf5-1c8c-4631-9ff2-98a702f02faf">

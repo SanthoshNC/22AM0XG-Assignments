@@ -1,0 +1,15 @@
+version: '3'
+
+services:
+  akshay:
+    image: "akshayanhub/flask-hello-world:latest"
+    container_name: akshayan-flask
+    ports:
+      - "9001:5000"
+
+  smukx:
+    image: "smukx07/simple-flask:latest"
+    container_name: "smukx07"
+    ports:
+      - "8888:5000"
+  

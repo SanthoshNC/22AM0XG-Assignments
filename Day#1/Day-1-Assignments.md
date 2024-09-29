@@ -100,7 +100,7 @@
 2.
 <img width="614" alt="image" src="https://github.com/user-attachments/assets/c8fde931-867a-4654-a867-1ce08f55c4a3">
 
-<img width="303" alt="image" src="https://github.com/user-attachments/assets/69c99e3d-90f6-4448-94ab-4e2e9e0b7350">
+<img width="947" alt="image" src="https://github.com/user-attachments/assets/846e0e67-290e-4a14-9140-ea82c27832d0">
 
 ***
 

@@ -125,7 +125,8 @@
 ![hello world](https://github.com/user-attachments/assets/6d3948be-6316-46be-a98f-0d62b76e43c1)
 
 #### #4 [Docker] Create the docker image for the above-mentioned flask app and run the same view of the page in a browser
-> Add your answer here!
+![flask](https://github.com/user-attachments/assets/bf1316e3-3aca-4bc3-b8e0-b1c78f6ed2e1)
+
 
 ***
 

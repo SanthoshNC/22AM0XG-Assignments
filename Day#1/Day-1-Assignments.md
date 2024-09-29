@@ -88,6 +88,31 @@
 
 ![docker tag](https://github.com/user-attachments/assets/a377b64d-a637-4977-9077-d9cb851528b3)
 
+19. docker save
+
+![docker save](https://github.com/user-attachments/assets/7b68f1bd-99b8-4646-b1cb-189a0865680b)
+
+20. docker load
+
+![docker load](https://github.com/user-attachments/assets/d6d62426-d83c-4c58-89df-a71a79df85d6)
+
+21. docker exec
+
+![docker exec](https://github.com/user-attachments/assets/71df6f92-df04-41a7-b8dc-033a2768b7f0)
+
+22. docker system prune
+
+![docker system prune](https://github.com/user-attachments/assets/8fa529fd-f1a5-463e-989d-f0cd4f6205a8)
+
+23. docker run
+
+![docker run](https://github.com/user-attachments/assets/b74e4f77-bae2-47c4-8b48-33336e6a1e3a)
+
+24. dokcer cp
+
+![docker cp](https://github.com/user-attachments/assets/797d8ae3-bcc4-4f45-bdbd-2b78359f61d5)
+
+
 
 ***
 

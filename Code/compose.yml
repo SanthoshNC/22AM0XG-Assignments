@@ -1,0 +1,11 @@
+version: '3'
+services:
+  email:
+    image: "ashwin250304/email-ml-py"
+    container_name: ashwin_email_container
+    restart: always
+
+  movie:
+    image: "ashwin250304/movie-review-ml"
+    container_name: ashwin_movie_container
+    restart: always

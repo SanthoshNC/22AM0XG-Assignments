@@ -84,6 +84,10 @@
 
 ![docker build](https://github.com/user-attachments/assets/1239b13e-3df3-48a7-9358-c0172967e85c)
 
+18. docker tag
+
+![docker tag](https://github.com/user-attachments/assets/a377b64d-a637-4977-9077-d9cb851528b3)
+
 
 ***
 

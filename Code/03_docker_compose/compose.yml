@@ -1,0 +1,14 @@
+version: "3"
+services:
+  abinaya:
+    image: "abinaya670/python-flask-app"
+    container_name: abinaya_container
+    restart: always
+    ports:
+      - "7777:5000"
+  lohitha:
+    image: "lohitha08/flask_app"
+    container_name: lohitha_container
+    restart: always
+    ports:
+      - "8888:5000"

@@ -158,9 +158,12 @@ python --version
 ***
 
 #### #6 [Docker] Pull one of the participant’s docker images and verify whether the app is running or not
-> Add your answer here!
 
-***
+docker run -idt -p 5000:5000 kanitha9/my-flask-app
+
+![image](https://github.com/user-attachments/assets/64d17610-5756-4ee0-8a1b-b60e98e13a53)
+
+![image](https://github.com/user-attachments/assets/0c953e0c-cb50-4dc6-bf83-d2b6ffb77abe)
 
 #### #7 Create a GitHub account with a personal mail ID & fork this repo and rename this in the format 22AM0XG-Assignments-Register-Number
 > Add your answer here!

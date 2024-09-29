@@ -1,0 +1,18 @@
+version: '3'
+
+services:
+   deepak:
+      image: "deepak3105/flask-hello-world"
+      container_name : deepak_container
+      restart: always
+      ports:
+        - "8888:5000"
+   harish:
+      image: "harishkumar1294/flask-hello-world"
+      container_name : harish_container
+      restart: always
+      ports:
+        - "7777:5000"
+
+    
+    

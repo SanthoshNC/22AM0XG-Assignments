@@ -1,0 +1,15 @@
+version: '3'
+
+services:
+   email:
+      image: "deepak3105/01_email.py"
+      container_name : email_container
+      restart: always
+   movie:
+      image: "deepak3105/01_movie.py"
+      container_name : movie_container
+      restart: always
+
+
+    
+    

@@ -5,12 +5,12 @@
 
 | Status         | Questions     | 
 |----------------|---------------|
-| <ul><li>- [ ] </li></ul> | Create a simple machine-learning application & verify the prediction based on the given score |
-| <ul><li>- [ ] </li></ul> | Create a simple machine-learning application & verify the accuracy |
-| <ul><li>- [ ] </li></ul> | [Docker Compose] Create a docker-compose file for the 2 images: your flask app and the machine learning app and run the same view the page in browser |
-| <ul><li>- [ ] </li></ul> | Commit all the code to GitHub Repo |
-| <ul><li>- [ ] </li></ul> | Document all the learnings with screenshots in the GitHub Wiki / in .md file |
-| <ul><li>- [ ] </li></ul> | Create a post on Linkedin  |
+| <ul><li>- [x] </li></ul> | Create a simple machine-learning application & verify the prediction based on the given score |
+| <ul><li>- [x] </li></ul> | Create a simple machine-learning application & verify the accuracy |
+| <ul><li>- [x] </li></ul> | [Docker Compose] Create a docker-compose file for the 2 images: your flask app and the machine learning app and run the same view the page in browser |
+| <ul><li>- [x] </li></ul> | Commit all the code to GitHub Repo |
+| <ul><li>- [x] </li></ul> | Document all the learnings with screenshots in the GitHub Wiki / in .md file |
+| <ul><li>- [x] </li></ul> | Create a post on Linkedin  |
 
 ***
 
@@ -67,21 +67,27 @@ pushing image to the dockerhub:\
 ***
 
 #### #3 [Docker Compose] Create a docker compose file for the 2 images : your flask app and the machine learning app and run the same view the page in browser
-> Add your answer here!
+1)Creating YAML file for composing the above two machine learning applications:
+![image](https://github.com/user-attachments/assets/d20add3d-5ff7-4d19-8b9b-409a8f8ca577)
+
+2) composing and seeing the output of two files simultaneously using docker compose up:
+![image](https://github.com/user-attachments/assets/c8214be4-42be-40f9-bafc-b2283976c30c)
+
+
 
 ***
 
 #### #4 Commit the code to the Github Repo. The repo should be a public one. 
-> Add your answer here!
+Commited ✅✅
 
 ***
 
 #### #5 Document all the learnings with screenshots in the GitHub Wiki / in .md file
-> Add your answer here!
+Documented ✅✅
 
 ***
 
 #### #6 Create a post on Linkedin about your learning journey in this 1 credit course
-> Add your answer here!
+Post created ✅✅
 
 ***

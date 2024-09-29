@@ -94,7 +94,9 @@
 
 #### #4 [Docker] Create the docker image for the above-mentioned flask app and run the same view of the page in a browser
 1. docker images
-  ![image](https://github.com/user-attachments/assets/30ad96bc-b1f2-4cfb-b896-8526ff1e12a4)
+  ![image](https://github.com/user-attachments/assets/30ad96bc-b1f2-4cfb-b896-8526ff1e12a4) <br>
+![image](https://github.com/user-attachments/assets/3a118200-0120-43c4-ada3-dea7edb2790e)
+
 
 ***
 
@@ -104,7 +106,8 @@
 ***
 
 #### #6 [Docker] Pull one of the participant’s docker images and verify whether the app is running or not
-> Add your answer here!
+![image](https://github.com/user-attachments/assets/e6dcbb40-441f-472c-99c7-3531b0433186) <br>
+![image](https://github.com/user-attachments/assets/f06eff52-3bec-44a4-aa92-410e4f09a4cf)
 
 ***
 

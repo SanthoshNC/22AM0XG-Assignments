@@ -112,6 +112,9 @@
 
 ![docker cp](https://github.com/user-attachments/assets/797d8ae3-bcc4-4f45-bdbd-2b78359f61d5)
 
+25. docker laod -i tar file
+
+![docker load  -i](https://github.com/user-attachments/assets/7f0c0ec5-6cd6-437e-9009-71164f041861)
 
 
 ***

@@ -44,7 +44,7 @@
 
 5. Docker compose version
    
-<img width="325" alt="image" src="https://github.com/user-attachments/assets/8b9f621d-f739-47c8-a32a-a042cfd26f24">
+<img width="691" alt="image" src="https://github.com/user-attachments/assets/22b7e6aa-6a70-4089-ae56-213d3c11a440">
 
 6. Docker login
    

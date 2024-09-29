@@ -105,8 +105,7 @@
 ***
 
 #### #5 [Docker] Create a docker compose file for the 2 images: nginx/httpd and run the same view of the page in a browser
-<img width="956" alt="image" src="https://github.com/user-attachments/assets/07eef215-532b-48b9-9a81-36952a86f0b5">
-
+<img width="676" alt="image" src="https://github.com/user-attachments/assets/0791383d-8cb4-4f88-94d4-4ee859279371">
 
 ***
 

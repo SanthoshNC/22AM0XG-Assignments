@@ -47,9 +47,8 @@
 
 
 #### #5 Document all the learnings with screenshots in the GitHub Wiki / in .md file
-> Add your answer here!
+![github](https://github.com/user-attachments/assets/7ded9cec-2911-4f79-81d8-b34a71cd87a9)
 
-***
 
 #### #6 Create a post on Linkedin about your learning journey in this 1 credit course
 > Add your answer here!

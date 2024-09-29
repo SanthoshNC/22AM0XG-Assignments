@@ -1,0 +1,12 @@
+version: '3'
+services:
+  gokul_movie:
+    image: "gokul764/movie_classifier"
+    container_name: gokul_movie_container
+
+  gokul_flask:
+    image: "gokul764/flask-app"
+    container_name: gokul_flask_container
+    ports:
+      - "7777:5000"
+  

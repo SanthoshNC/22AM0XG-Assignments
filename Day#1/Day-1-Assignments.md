@@ -9,8 +9,8 @@
 | <ul><li>- [x] </li></ul> | Install VSCode and Python. Check the version of Python. Document these steps in GitHub Wiki. |
 | <ul><li>- [x] </li></ul> | [Python] Create a sample flask app and edit the same to showcase your college information(Name, Register_number,etc) |
 | <ul><li>- [x] </li></ul> | [Docker] Create the docker image for the above-mentioned flask app and run the same view of the page in a browser |
-| <ul><li>- [ ] </li></ul> | [Docker] Create a docker compose file for the 2 images: nginx/httpd and run the same view of the page in a browser |
-| <ul><li>- [ ] </li></ul> | [Docker] Pull one of the participant’s docker images and verify whether the app is running or not  |
+| <ul><li>- [x] </li></ul> | [Docker] Create a docker compose file for the 2 images: nginx/httpd and run the same view of the page in a browser |
+| <ul><li>- [x] </li></ul> | [Docker] Pull one of the participant’s docker images and verify whether the app is running or not  |
 | <ul><li>- [ ] </li></ul> | Create a GitHub account with a personal mail ID & fork this repo and rename this in the format 22AM0XG-Assignments-Register-Number  |
 | <ul><li>- [ ] </li></ul> | Create a LinkedIn account with personal mail ID  |
 
@@ -112,18 +112,26 @@
 ***
 
 #### #3 [Python] Create a sample flask app and edit the same to showcase your college information(Name, Register_number,etc)
+![image](https://github.com/user-attachments/assets/54f1e675-ac4d-408a-98bb-d6336f325494)
+
+![image](https://github.com/user-attachments/assets/e7fd109b-532b-4db3-b98e-4e0b52138315)
+
 ![image](https://github.com/user-attachments/assets/fb65815f-e064-4d1c-9011-cd7e13ed2c3e)
 
 
 ***
 
 #### #4 [Docker] Create the docker image for the above-mentioned flask app and run the same view of the page in a browser
-> Add your answer here!
+![image](https://github.com/user-attachments/assets/6fe7557e-9ae1-4ec8-be92-fc0f830ef888)
+
+![image](https://github.com/user-attachments/assets/cfa4ad6e-5f2e-48b3-83f4-9d0509958390)
 
 ***
 
 #### #5 [Docker] Create a docker compose file for the 2 images: nginx/httpd and run the same view of the page in a browser
-> Add your answer here!
+![image](https://github.com/user-attachments/assets/a0cf3999-bf2d-4e21-b73b-5fb4adc115ac)
+![image](https://github.com/user-attachments/assets/860715c7-8dc2-4459-9a67-5295f4665bdf)
+
 
 ***
 

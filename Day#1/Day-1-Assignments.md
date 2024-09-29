@@ -59,7 +59,7 @@
 
 #### #2 Install VSCode and Python. Check the version of Python. Document these steps in GitHub Wiki
 ![Screenshot 2024-09-28 121129](https://github.com/user-attachments/assets/0a86f53b-b59a-40fa-9c4f-4cff23ddbe1d)
-![Screenshot 2024-09-28 132042](https://github.com/user-attachments/assets/6a589e44-f640-41dc-86b1-9eab4ac192ac)
+
 
 
 
@@ -67,7 +67,7 @@
 
 #### #3 [Python] Create a sample flask app and edit the same to showcase your college information(Name, Register_number,etc)
 ![screenshot 2024-09-29 115714](https://github.com/user-attachments/assets/019a4e4f-3cdf-4cde-b020-e2afb6967aed)
-
+![Screenshot 2024-09-28 132042](https://github.com/user-attachments/assets/6a589e44-f640-41dc-86b1-9eab4ac192ac)
 
 ***
 

@@ -1,0 +1,12 @@
+services:
+  paramesh:
+    image: "paramesh2907/flask:latest"
+    container_name: hello3
+    ports:
+      - "9001:5000"
+
+  smukx:
+    image: "smukx07/simple-flask:latest"
+    container_name: "smukx07"
+    ports:
+      - "8888:5000"

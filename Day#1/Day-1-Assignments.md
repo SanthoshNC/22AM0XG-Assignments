@@ -25,15 +25,17 @@
 > Pls don't copy from others. Marks will be reduced for both students
 
 #### #1 Execute 25 Docker CLI commands, capture the output screenshots, and document each command's usage on a GitHub Wiki page
-1.docker version ![Screenshot (22)](https://github.com/user-attachments/assets/ac65205d-669b-4433-a0bb-a6f719d51387)
-2.docker info ![Screenshot (23)](https://github.com/user-attachments/assets/c9a7c7c0-3198-4b76-ae7c-db3502639574)
-3.docker system info ![Screenshot (25)](https://github.com/user-attachments/assets/e27a2dc2-d232-47d6-ac62-df68f041e664)
-4.docker --help ![Screenshot (24)](https://github.com/user-attachments/assets/0aa20079-657a-42f3-875a-fead5c435581)
-5.docker compose version<br>![Screenshot 2024-09-28 133511](https://github.com/user-attachments/assets/1c91425f-a567-48b7-9f53-fe6e237838b2)
+1.docker version,<br> ![Screenshot (22)](https://github.com/user-attachments/assets/ac65205d-669b-4433-a0bb-a6f719d51387)
 
-6.docker login
+2.docker info <br> ![Screenshot (23)](https://github.com/user-attachments/assets/c9a7c7c0-3198-4b76-ae7c-db3502639574)
 
-![Screenshot 2024-09-28 133652](https://github.com/user-attachments/assets/6af040d9-4109-40f5-b239-25576f3a1abf)
+3.docker system info <br> ![Screenshot (25)](https://github.com/user-attachments/assets/e27a2dc2-d232-47d6-ac62-df68f041e664)
+
+4.docker --help <br> ![Screenshot (24)](https://github.com/user-attachments/assets/0aa20079-657a-42f3-875a-fead5c435581)
+
+5.docker compose version <br> ![Screenshot 2024-09-28 133511](https://github.com/user-attachments/assets/1c91425f-a567-48b7-9f53-fe6e237838b2)
+
+6.docker login <br> ![Screenshot 2024-09-28 133652](https://github.com/user-attachments/assets/6af040d9-4109-40f5-b239-25576f3a1abf)
 
 7.docker logout<br> ![Screenshot 2024-09-28 133809](https://github.com/user-attachments/assets/2cd10704-a7a4-4609-af4a-0634e622c4c1)
 
@@ -60,7 +62,6 @@
 18.docker build <br>![Screenshot 2024-09-29 101002](https://github.com/user-attachments/assets/3147adac-e502-4971-a1b4-c9f7b6422be5)
 
 19.docker push <br>![Screenshot 2024-09-29 101520](https://github.com/user-attachments/assets/909fe3ee-60de-44b0-b4a3-795df76396af)
-
 
 20.docker tag<br> ![Screenshot 2024-09-29 102434](https://github.com/user-attachments/assets/07347517-2461-4bf6-957a-d07154af31cc)
 

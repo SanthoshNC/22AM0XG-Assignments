@@ -101,11 +101,11 @@
 ***
 
 #### #7 Create a GitHub account with a personal mail ID & fork this repo and rename this in the format 22AM0XG-Assignments-Register-Number
-> Add your answer here!
+> Done✅✅
 
 ***
 
 #### #8 Create a LinkedIn account with personal mail ID
-> Add your answer here!
+> Done✅✅
 
 ***

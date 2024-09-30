@@ -1,0 +1,15 @@
+version: '3'
+services:
+  imran738:
+    image: "imran738/simple-py"  
+    container_name: imran_container
+    restart: always
+    ports:
+      - "7777:5000"
+  
+  kanitha:
+    image: "kanitha9/my-flask-app"  
+    container_name: kanitha_container
+    restart: always
+    ports:
+      - "6666:5000"

@@ -24,13 +24,21 @@
 
 #### #1 Create a simple machine learning application. Execute the program in local and verify the prediction based on the given score. 
 #### Write the Dockerfile & create the docker image named : ml-docker-app-flask. Run the docker image and verify the prediction based on the given score. Tag the image in this format : <dockerhub-username>: ml-docker-app-flask. Push the image to DockerHub	
-> Add your answer here!
+![image](https://github.com/user-attachments/assets/a73c5114-e811-497d-906f-c04765e80b99)
+
+![image](https://github.com/user-attachments/assets/3ef1a049-5eeb-43f8-9672-7eb91334094b)
+![image](https://github.com/user-attachments/assets/f4a8c9d4-d8c6-4ea6-9dd8-6f7655edd2cb)
+
 
 ***
 
 #### #2 Create a simple machine learning application. Execute the program in local and verify the accuracy
 #### Write the Dockerfile & create the docker image named : ml-docker-app. Run the docker image and verify the accuracy. Tag the image in this format : <dockerhub-username>:ml-docker-app. Push the image to DockerHub
-> Add your answer here!
+> ![image](https://github.com/user-attachments/assets/f2784843-b0d1-4a29-abfb-740cc435a0c0)
+
+![image](https://github.com/user-attachments/assets/a73c5114-e811-497d-906f-c04765e80b99)
+
+
 
 ***
 

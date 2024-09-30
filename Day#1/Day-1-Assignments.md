@@ -104,16 +104,16 @@
 ***
 
 #### #6 [Docker] Pull one of the participant’s docker images and verify whether the app is running or not
-> Add your answer here!
+1.![Screenshot 2024-09-29 141159](https://github.com/user-attachments/assets/a35ffb96-1a46-4878-8c23-90f4bbd19f2c)
 
 ***
 
 #### #7 Create a GitHub account with a personal mail ID & fork this repo and rename this in the format 22AM0XG-Assignments-Register-Number
-> Add your answer here!
+Created
 
 ***
 
 #### #8 Create a LinkedIn account with personal mail ID
-> Add your answer here!
+Created 
 
 ***

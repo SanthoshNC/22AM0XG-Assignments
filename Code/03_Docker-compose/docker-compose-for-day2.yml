@@ -1,0 +1,17 @@
+version: '3'
+services:
+  flask-app:
+    build:
+      context: .
+      dockerfile: Dockerfile-flask  # Use the renamed Dockerfile for Flask app
+    ports:
+      - "5000:5000"
+    depends_on:
+      - ml-app
+
+  ml-app:
+    build:
+      context: .
+      dockerfile: Dockerfile-ml  # Use the renamed Dockerfile for ML app
+    ports:
+      - "5001:5001"

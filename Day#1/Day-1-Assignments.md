@@ -6,13 +6,13 @@
 | Status         | Questions     | 
 |----------------|---------------|
 | <ul><li>- [x] </li></ul> | Execute 25 Docker CLI commands, capture the output screenshots, and document each command's usage on a GitHub Wiki page. |
-| <ul><li>- [ ] </li></ul> | Install VSCode and Python. Check the version of Python. Document these steps in GitHub Wiki. |
-| <ul><li>- [ ] </li></ul> | [Python] Create a sample flask app and edit the same to showcase your college information(Name, Register_number,etc) |
-| <ul><li>- [ ] </li></ul> | [Docker] Create the docker image for the above-mentioned flask app and run the same view of the page in a browser |
-| <ul><li>- [ ] </li></ul> | [Docker] Create a docker compose file for the 2 images: nginx/httpd and run the same view of the page in a browser |
-| <ul><li>- [ ] </li></ul> | [Docker] Pull one of the participant’s docker images and verify whether the app is running or not  |
-| <ul><li>- [ ] </li></ul> | Create a GitHub account with a personal mail ID & fork this repo and rename this in the format 22AM0XG-Assignments-Register-Number  |
-| <ul><li>- [ ] </li></ul> | Create a LinkedIn account with personal mail ID  |
+| <ul><li>- [x] </li></ul> | Install VSCode and Python. Check the version of Python. Document these steps in GitHub Wiki. |
+| <ul><li>- [x] </li></ul> | [Python] Create a sample flask app and edit the same to showcase your college information(Name, Register_number,etc) |
+| <ul><li>- [x] </li></ul> | [Docker] Create the docker image for the above-mentioned flask app and run the same view of the page in a browser |
+| <ul><li>- [x] </li></ul> | [Docker] Create a docker compose file for the 2 images: nginx/httpd and run the same view of the page in a browser |
+| <ul><li>- [x] </li></ul> | [Docker] Pull one of the participant’s docker images and verify whether the app is running or not  |
+| <ul><li>- [x] </li></ul> | Create a GitHub account with a personal mail ID & fork this repo and rename this in the format 22AM0XG-Assignments-Register-Number  |
+| <ul><li>- [x] </li></ul> | Create a LinkedIn account with personal mail ID  |
 
 ***
 
@@ -67,36 +67,47 @@
 ***
 
 #### #2 Install VSCode and Python. Check the version of Python. Document these steps in GitHub Wiki
-> Add your answer here!
+<img width="357" alt="Screenshot 2024-09-29 at 2 53 14 PM" src="https://github.com/user-attachments/assets/f7208342-e411-4bcb-b376-76a928a7fdf6">
+
 
 ***
 
 #### #3 [Python] Create a sample flask app and edit the same to showcase your college information(Name, Register_number,etc)
-> Add your answer here!
+<img width="1227" alt="Screenshot 2024-09-29 at 3 02 53 PM" src="https://github.com/user-attachments/assets/aeec84cf-9e02-4ce7-97b3-1b3a34967dc2">
+<img width="1045" alt="Screenshot 2024-09-29 at 3 10 10 PM" src="https://github.com/user-attachments/assets/aa743045-8de8-43f2-835b-353c4f83a8a9">
+<img width="1256" alt="Screenshot 2024-09-29 at 3 09 30 PM" src="https://github.com/user-attachments/assets/498fcfb3-fca9-4039-8f6c-7ba3676f5761">
+
 
 ***
 
 #### #4 [Docker] Create the docker image for the above-mentioned flask app and run the same view of the page in a browser
-> Add your answer here!
+<img width="983" alt="Screenshot 2024-09-29 at 3 26 35 PM" src="https://github.com/user-attachments/assets/162471c2-8b27-496e-9e5b-c60cccab7b0d">
+<img width="1064" alt="Screenshot 2024-09-29 at 3 53 52 PM" src="https://github.com/user-attachments/assets/87b17ef3-c6d7-4544-b443-3144edc8eea9">
+
 
 ***
 
 #### #5 [Docker] Create a docker compose file for the 2 images: nginx/httpd and run the same view of the page in a browser
-> Add your answer here!
+<img width="845" alt="Screenshot 2024-09-30 at 9 22 16 PM" src="https://github.com/user-attachments/assets/00c712b4-4e90-467d-8fa2-c49b19daed27">
+<img width="499" alt="Screenshot 2024-09-29 at 4 21 20 PM" src="https://github.com/user-attachments/assets/74ef1e6c-6414-4936-82f8-ea8e2c10ee57">
+<img width="1064" alt="Screenshot 2024-09-29 at 3 53 52 PM" src="https://github.com/user-attachments/assets/d0132583-ae4e-4271-941f-a6854177dafc">
 
 ***
 
 #### #6 [Docker] Pull one of the participant’s docker images and verify whether the app is running or not
-> Add your answer here!
+<img width="770" alt="Screenshot 2024-09-30 at 9 25 25 PM" src="https://github.com/user-attachments/assets/097f6697-59d3-4831-bfed-f9545a6765e3">
+<img width="815" alt="Screenshot 2024-09-30 at 9 26 12 PM" src="https://github.com/user-attachments/assets/29684ba5-50fc-4287-ac8c-b21c2a451220">
+
+
 
 ***
 
 #### #7 Create a GitHub account with a personal mail ID & fork this repo and rename this in the format 22AM0XG-Assignments-Register-Number
-> Add your answer here!
+DONE
 
 ***
 
 #### #8 Create a LinkedIn account with personal mail ID
-> Add your answer here!
+DONE
 
 ***

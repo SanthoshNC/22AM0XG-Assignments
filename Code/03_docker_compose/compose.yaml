@@ -1,0 +1,12 @@
+version: "3"
+services: 
+  gowtham:
+    image: "gowthambalak/flask-app"
+    container_name: gowtham_container
+    ports:
+     - "5000:5000"
+  gowtham2:
+    image: "gowthambalak/flask-app"
+    container_name: gowtham2_container
+    ports:
+      - "7000:5000"

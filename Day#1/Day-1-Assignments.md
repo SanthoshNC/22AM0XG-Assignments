@@ -89,7 +89,7 @@
 ***
 
 #### #6 [Docker] Pull one of the participant’s docker images and verify whether the app is running or not
-> ![docker-compose](https://github.com/user-attachments/assets/8348b65a-40c5-4ed5-81e6-1cff80613fef)
+> ![docker-compose-version](https://github.com/user-attachments/assets/f6829a0a-9d7e-4550-8f44-ac470e81c0c6)
 
 ***
 

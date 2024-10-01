@@ -1,0 +1,15 @@
+version: "3"
+services:
+  raja:
+   image: "raja05/flask-app"
+   container_name: raja_container
+   restart: always
+   ports:
+     - "7777:5000"
+  gokul:
+    image: "gokul764/flask-app"
+    container_name: gokul_container
+    restart: always
+    ports:
+      - "8888:5000"
+       

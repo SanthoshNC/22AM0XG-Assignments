@@ -1,0 +1,11 @@
+version: '3'
+services:
+  Email:
+    image: "dhayanithi784/01_email"
+    container_name: Email_container
+    restart: always
+    
+  Movie:
+    image: "dhayanithi784/01_movie"
+    container_name: Movie_container
+    restart: always

@@ -1,0 +1,16 @@
+#compose.yamil / compose.yml / docker-compose.yml / docker-compose.yaml
+version: '3'
+services:
+  kanitha:
+    image: "kanitha9/my-flask-app" #Replace with your image name
+    container_name: kanitha_container
+    restart: always
+    ports: #ports not necessary while dealing with python, For Flask alone needed
+      - "7777:5000"
+
+  kramkumar:
+    image: "kramkumar27/flask-helloworld" #Replace with your image name
+    container_name: always
+    ports: #ports not necessary while dealing with python, For Flask alone needed
+      - "8888:5000"
+

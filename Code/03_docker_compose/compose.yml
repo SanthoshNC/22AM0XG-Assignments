@@ -1,0 +1,14 @@
+version: '3'
+services:
+  sudhan:
+    image: "mmsudhan26/py_helloworld"
+    container_name: sudhan_container
+    restart: always
+    ports:
+      - "7778:5000"
+  sudhan1:
+    image: "mmsudhan26/flask_helloworld"
+    container_name: sudhan1_container
+    restart: always
+    ports:
+      - "8888:5000"

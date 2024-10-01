@@ -1,5 +1,3 @@
-![docker-pull0-ngix](https://github.com/user-attachments/assets/b94d34e7-cde9-4f62-a490-cdca441995f5)### Day 1 Assignments
-
 > [!NOTE]
 > Pls edit this table while submitting the assignments
 
@@ -72,31 +70,35 @@
 ***
 
 #### #3 [Python] Create a sample flask app and edit the same to showcase your college information(Name, Register_number,etc)
-> Add your answer here!
+> ![flask](https://github.com/user-attachments/assets/7bbcda7a-adb2-4d3e-a021-bba73beb867b)
 
 ***
 
 #### #4 [Docker] Create the docker image for the above-mentioned flask app and run the same view of the page in a browser
-> Add your answer here!
+> ![docker-build](https://github.com/user-attachments/assets/15c57034-8445-4873-a5da-c76150681ab4)
+> ![flask-push](https://github.com/user-attachments/assets/59fad6a9-58be-4674-8a1d-dd4f4ef1bbb7)
+
+
 
 ***
 
 #### #5 [Docker] Create a docker compose file for the 2 images: nginx/httpd and run the same view of the page in a browser
-> Add your answer here!
+> ![flask](https://github.com/user-attachments/assets/dd3ce0db-d182-4a37-85c2-06ead1714a21)
+
 
 ***
 
 #### #6 [Docker] Pull one of the participant’s docker images and verify whether the app is running or not
-> Add your answer here!
+> ![docker-compose](https://github.com/user-attachments/assets/8348b65a-40c5-4ed5-81e6-1cff80613fef)
 
 ***
 
 #### #7 Create a GitHub account with a personal mail ID & fork this repo and rename this in the format 22AM0XG-Assignments-Register-Number
-> Add your answer here!
+> Created
 
 ***
 
 #### #8 Create a LinkedIn account with personal mail ID
-> Add your answer here!
+> Created
 
 ***
